@@ -15,5 +15,7 @@
 # Versión de Python/Anaconda y de cada uno de los módulos/paquetes usados
 - Anaconda Navigator v. 2.1.4
 - Python v. 3.9.12
+- site-packages (from biopython) (1.21.5)
+- site-packages (1.79)
 # Explicación de data utilizada
 # Un Diagrama de procesos del módulo miningscience
