@@ -14,5 +14,6 @@
 
 # Versión de Python/Anaconda y de cada uno de los módulos/paquetes usados
 - Anaconda Navigator v. 2.1.4
+- Python v. 3.9.12
 # Explicación de data utilizada
 # Un Diagrama de procesos del módulo miningscience
