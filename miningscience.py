@@ -1,41 +1,34 @@
 # NOMBRE (apellido, nombre): 
 
-def download_pubmed(                ): 
+from Bio import Entrez
+
+Entrez.email="ignacio.carranco@est.ikiam.edu.ec"
+
+handle=Entrez.einfo(db="genome")
+record=Entrez.read(handle)
+
+handle=Entrez.esearch(db="pubmed", term = "cancer hpv")
+record=Entrez.read(handle)
+print(record)
+
+
+
+def download_pubmed(HPVCANCER): 
     """
-    Docstring download_pubmed
-    
-    
-    
-    
-    
+    Se hace un llamado de librería data de pubmed importando desde biopython
     """
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     return 
 
 
 
-def mapscience(                   ):
+def mapscience(HPVCANCER): # DEBE IR EN DATA
     """
-    Docstring map_science
-    
-    
-    
-    
-    
-    
-    
+    Definimos una función la cual llamaremos más adelante
+ 
     """
-    
+    PUB1=PUB.txt
     
     
     
