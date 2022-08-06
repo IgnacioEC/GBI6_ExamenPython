@@ -31,11 +31,12 @@ def download_pubmed (VIRUELA):
                        webenv=webenv,
                        query_key=query_key)
 
-    out_handle = open("VIRUELA_pubs.txt", "w")
+    out_handle = open("VIRUELA_pub.txt", "w")
     data = handle.read()
     handle.close()
     out_handle.write(data)
     out_handle.close()
+    
     return id_list
 
 
@@ -50,37 +51,34 @@ def science_plots(VIRUELA):
     import re
     import pandas as pd
     from collections import Counter
-    with out_handle as OH: 
-        my_text = OH.read()
-        if tipo == "AD": 
-            text = re.sub(r" [A-Z]{1}\.","", my_text)
-            text = re.sub(r"Av\.","", my_text)
-            text = re.sub(r"Vic\.","", my_text)
-            text = re.sub(r"Tas\.","", my_text)
-            AD = text.split("AD  - ")
-            n_country = []
-        for i in range(len(AD)): 
-            country = re.findall("\S, ([A-Za-z]*)\.", AD[i])
-            if not country == []: 
-                if not len(country) >= 2:  
-                    if re.findall("^[A-Z]", country[0]): 
-                        n_country.append(country[0])
-        count=Counter(n_country)
-        result = {}
-        for clave in count:
-            valor = count[clave]
-            if valor != 1: 
-                result[clave] = valor 
-        count_pais = pd.DataFrame()
-        count_pais["pais"] = result.keys()
-        count_pais["numero de autores"] = result.values()
-        return (count_pais)
     
-    
-    
-    
-    
-    
+    with open("data/VIRUELA_pub.txt", errors="ignore") as l: 
+        texto = l.read()
+    texto = re.sub(r"\n\s{6}", " ", texto)
+    countries_1 = re.findall (r"AD\s{2}-\s[A-Za-z].*,\s([A-Za-z]*)\.\s", texto)
+    unique_countries = list(set(countries_1))
+    conteo=Counter(countries_1)
+    resultado={} 
+    for clave in conteo:  
+        valor=conteo[clave]
+        if valor > 1:
+            resultado[clave] = valor
+    ordenar = (sorted(resultado.values()))
+    ordenar.sort(reverse=True) 
+    import operator
+    pais = [] 
+    contador = []
+    reverse = sorted(resultado.items(), key=operator.itemgetter(1), reverse=True)   
+    for name in enumerate(reverse):
+        pais.append(name[1][0])
+        contador.append(resultado[name[1][0]])
+    cinco_paises = pais[0:5] 
+    frecuencia_cinco = contador [0:5]  
+    fig = plt.figure(figsize =(10, 7))
+    plt.pie(frecuencia_cinco, labels = cinco_paises)
+    (plt.savefig("img/VIRUELA.jpg", dpi=100, bbox_inches='tight'))
+    plt.show()
+    return (count_pais)
     
     
     
