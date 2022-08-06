@@ -5,7 +5,7 @@ from Bio.Seq import Seq
 from Bio import Entrez
 import re
 
-def download_pubmed (keyword):
+def download_pubmed (VIRUELA):
     """
     Funcion que pide como input la palabra de busqueda en tipo str del pubmed y como output guarda un documento con extensión
     txt que contiene los datos de la busqueda y se hace un llamado de librería data de pubmed importando desde biopython para 
@@ -15,7 +15,7 @@ def download_pubmed (keyword):
 
     Entrez.email = "ignacio.carranco@est.ikiam.edu.ec"
     handle = Entrez.esearch(db="pubmed", 
-                        term=keyword+"VIRUELA",
+                        term="VIRUELA",
                         usehistory="y")
     record = Entrez.read(handle)
 
@@ -31,14 +31,14 @@ def download_pubmed (keyword):
                        webenv=webenv,
                        query_key=query_key)
 
-    out_handle = open(keyword+"VIRUELA_pubs.txt", "w")
+    out_handle = open("VIRUELA_pubs.txt", "w")
     data = handle.read()
     handle.close()
     out_handle.write(data)
     out_handle.close()
     return id_list
 
-    
+
 def science_plots(VIRUELA): 
     """
     Definimos una función con la cual llamaremos los datos de la pregunta 1 yse guardará 
