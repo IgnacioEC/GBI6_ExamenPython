@@ -1,37 +1,42 @@
 # NOMBRE (Carranco, Ignacio): 
 
-def download_pubmed (VIRUELA):
+import Bio
+from Bio.Seq import Seq
+from Bio import Entrez
+import re
+
+def download_pubmed (keyword):
     """
     Funcion que pide como input la palabra de busqueda en tipo str del pubmed y como output guarda un documento con extensión
     txt que contiene los datos de la busqueda y se hace un llamado de librería data de pubmed importando desde biopython para 
     el gen HPV18I1 (CANCERHPV) perteneciente al Herpex virus en humanos:
     El code `efetch` Recupera registros en el formato solicitado de una lista
     """ 
-    from Bio import Entrez
-    handle = Entrez.read(Entrez.esearch(db="pubmed",
-                    term="VIRUELA",
-                    usehistory="y"))
+
+    Entrez.email = "ignacio.carranco@est.ikiam.edu.ec"
+    handle = Entrez.esearch(db="pubmed", 
+                        term=keyword+"VIRUELA",
+                        usehistory="y")
     record = Entrez.read(handle)
-    webenv=Entr["WebEnv"]
+
+    
     id_list = record["IdList"]
     webenv = record["WebEnv"]
-    query_key=Entr["QueryKey"]
-    handle=Entrez.efetch(db="pubmed",
-                     rettype='medline',
-                     retmode="text",
-                     retstart=0,
-                     retmax=543, 
-                     webenv=webenv, 
-                     query_key=query_key)
-    out_handle = open("data/VIRUELA_pubs.txt", "w")
+    query_key = record["QueryKey"]
+    handle = Entrez.efetch(db="pubmed",
+                       rettype="medline", 
+                       retmode="text", 
+                       retstart=0,
+                       retmax=543, 
+                       webenv=webenv,
+                       query_key=query_key)
+
+    out_handle = open(keyword+"VIRUELA_pubs.txt", "w")
     data = handle.read()
+    handle.close()
     out_handle.write(data)
     out_handle.close()
-    handle.close()
-   
     return id_list
-
-
 
     
 def science_plots(VIRUELA): 

@@ -1,0 +1,3748 @@
+
+PMID- 35830908
+OWN - NLM
+STAT- Publisher
+LR  - 20220726
+IS  - 1532-2742 (Electronic)
+IS  - 0163-4453 (Linking)
+DP  - 2022 Jul 10
+TI  - Monkeypox outbreak in Madrid (Spain): Clinical and virological aspects.
+LID - S0163-4453(22)00415-7 [pii]
+LID - 10.1016/j.jinf.2022.07.005 [doi]
+AB  - BACKGROUND: Monkeypox is the most prevalent Orthopoxvirus zoonosis infection
+      since the eradication of smallpox. The current multi-country outbreak involves
+      five WHO regions affecting mainly Europe. Accurate clinical and virological
+      aspects of the disease outside endemic areas are needed. METHODS: We performed an
+      observational study of cases diagnosed in Madrid (Spain) (May/June 2022).
+      Confirmation from vesicular lesions swabs, Orthopoxvirus real-time PCR,
+      sequencing, phylogenetic analysis, and direct detection by Electron microscopy
+      was performed. In addition, a structured epidemiological questionnaire was
+      completed systematically to gather sociodemographic, clinical, and behavioral
+      data from all confirmed cases. FINDINGS: We extracted data from 48 patients, all 
+      cisgender men. The median age was 35 years (IQR 29 - 44), and 87.5% were MSM. The
+      most prevalent symptoms were the presence of vesicular-umbilicated and
+      pseudo-pustular skin lesions (93.8%), asthenia (66.6%), and fever (52.1%). In
+      addition, the location of the lesions in the genital or perianal area was related
+      to the role in sexual intercourse (p<0.001). Sequencing analysis indicated the
+      virus circulating in Spain belongs to the western African clade. Like the other
+      European cases in the outbreak, the Spanish isolates are a direct descendant of
+      viruses previously detected in Nigeria, the UK, Singapore, and Israel in
+      2017-2018. CONCLUSIONS: Monkeypox is an emerging infectious disease in Europe
+      where community transmission is reported, mainly in MSM. The first symptom was
+      skin lesions instead of classical fever and rash. The disease follows a
+      self-limited course, and there have been no cases with a serious presentation or 
+      severe complications.
+CI  - Copyright (c) 2022 The British Infection Association. Published by Elsevier Ltd. 
+      All rights reserved.
+FAU - Orviz, Eva
+AU  - Orviz E
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Negredo, Anabel
+AU  - Negredo A
+AD  - Laboratorio de Arbovirus y Enfermedades Viricas importadas, Centro Nacional de
+      Microbiologia. Instituto de Salud Carlos III; CIBERINFEC.
+FAU - Ayerdi, Oskar
+AU  - Ayerdi O
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Vazquez, Ana
+AU  - Vazquez A
+AD  - Laboratorio de Arbovirus y Enfermedades Viricas importadas, Centro Nacional de
+      Microbiologia. Instituto de Salud Carlos III; CIBERINFEC.
+FAU - Munoz-Gomez, Ana
+AU  - Munoz-Gomez A
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Monzon, Sara
+AU  - Monzon S
+AD  - Unidad de Bioinformatica, Instituto de Salud Carlos III.
+FAU - Clavo, Petunia
+AU  - Clavo P
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Zaballos, Angel
+AU  - Zaballos A
+AD  - Unidad de Genomica, Instituto de Salud Carlos III.
+FAU - Vera, Mar
+AU  - Vera M
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Sanchez, Patricia
+AU  - Sanchez P
+AD  - Laboratorio de Arbovirus y Enfermedades Viricas importadas, Centro Nacional de
+      Microbiologia. Instituto de Salud Carlos III; CIBERINFEC.
+FAU - Cabello, Noemi
+AU  - Cabello N
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC; CIBERINFEC.
+FAU - Jimenez, Pilar
+AU  - Jimenez P
+AD  - Unidad de Genomica, Instituto de Salud Carlos III.
+FAU - Perez-Garcia, Jorge A
+AU  - Perez-Garcia JA
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Varona, Sarai
+AU  - Varona S
+AD  - Unidad de Bioinformatica, Instituto de Salud Carlos III.
+FAU - Del Romero, Jorge
+AU  - Del Romero J
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Cuesta, Isabel
+AU  - Cuesta I
+AD  - Unidad de Bioinformatica, Instituto de Salud Carlos III.
+FAU - Delgado-Iribarren, Alberto
+AU  - Delgado-Iribarren A
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC.
+FAU - Torres, Montse
+AU  - Torres M
+AD  - Centro Nacional de Microbiologia, Instituto de Salud Carlos III.
+FAU - Sagastagoitia, Inigo
+AU  - Sagastagoitia I
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC; CIBERINFEC.
+FAU - Palacios, Gustavo
+AU  - Palacios G
+AD  - Icahn School of Medicine at Mount Sinai, New York, USA.
+FAU - Estrada, Vicente
+AU  - Estrada V
+AD  - Centro Sandoval/Hospital Clinico San Carlos, IdISSC; CIBERINFEC. Electronic
+      address: vicente.estrada@salud.madrid.org.
+FAU - Sanchez-Seco, Maria Paz
+AU  - Sanchez-Seco MP
+AD  - Laboratorio de Arbovirus y Enfermedades Viricas importadas, Centro Nacional de
+      Microbiologia. Instituto de Salud Carlos III; CIBERINFEC.
+CN  - Grupo Viruela del Simio Madrid CNM/ISCIII/HCSC/Sandoval
+LA  - eng
+PT  - Journal Article
+DEP - 20220710
+PL  - England
+TA  - J Infect
+JT  - The Journal of infection
+JID - 7908424
+SB  - IM
+OTO - NOTNLM
+OT  - Communicable diseases
+OT  - Emerging
+OT  - Monkeypox
+COIS- Declaration of Competing Interest The authors declare no conflict of interests.
+IR  - Ballesteros J
+FIR - Ballesteros, Juan
+IR  - Baza B
+FIR - Baza, Begona
+IR  - Carrio JC
+FIR - Carrio, Juan Carlos
+IR  - Chocron C
+FIR - Chocron, Cynthia
+IR  - Fedele G
+FIR - Fedele, Giovanni
+IR  - Garcia-Amil C
+FIR - Garcia-Amil, Cristina
+IR  - Herrero L
+FIR - Herrero, Laura
+IR  - Homen R
+FIR - Homen, Reynaldo
+IR  - Mariano A
+FIR - Mariano, Alberto
+IR  - Martinez-Burgoa T
+FIR - Martinez-Burgoa, Teresa
+IR  - Molero F
+FIR - Molero, Francisca
+IR  - Navarro ML
+FIR - Navarro, Maria Luisa
+IR  - Nunez MJ
+FIR - Nunez, Maria Jose
+IR  - Perez-Somarriba J
+FIR - Perez-Somarriba, Juncal
+IR  - Puerta T
+FIR - Puerta, Teresa
+IR  - Rodriguez-Anover J
+FIR - Rodriguez-Anover, Javier
+IR  - Pastrana EP
+FIR - Pastrana, Esperanza Perez
+IR  - Jimenez M
+FIR - Jimenez, Mercedes
+IR  - de la Vega L
+FIR - de la Vega, Leticia
+IR  - Vergas J
+FIR - Vergas, Jorge
+IR  - Zarza I
+FIR - Zarza, Isabel
+EDAT- 2022/07/14 06:00
+MHDA- 2022/07/14 06:00
+CRDT- 2022/07/13 19:23
+PHST- 2022/07/03 00:00 [received]
+PHST- 2022/07/05 00:00 [accepted]
+PHST- 2022/07/14 06:00 [pubmed]
+PHST- 2022/07/14 06:00 [medline]
+PHST- 2022/07/13 19:23 [entrez]
+AID - S0163-4453(22)00415-7 [pii]
+AID - 10.1016/j.jinf.2022.07.005 [doi]
+PST - aheadofprint
+SO  - J Infect. 2022 Jul 10. pii: S0163-4453(22)00415-7. doi:
+      10.1016/j.jinf.2022.07.005.
+
+PMID- 35779571
+OWN - NLM
+STAT- Publisher
+LR  - 20220725
+IS  - 1578-2190 (Electronic)
+IS  - 0001-7310 (Linking)
+DP  - 2022 Jun 30
+TI  - RF - Potential Treatments for Monkeypox.
+LID - S0001-7310(22)00601-9 [pii]
+LID - 10.1016/j.ad.2022.06.013 [doi]
+FAU - Rodriguez-Cuadrado, F J
+AU  - Rodriguez-Cuadrado FJ
+AD  - Servicio de Dermatologia, Hospital Universitario Puerta de Hierro Majadahonda,
+      Madrid, Espana. Electronic address: franciscojose.rodriguezcuadrado@gmail.com.
+FAU - Pinto-Pulido, E L
+AU  - Pinto-Pulido EL
+AD  - Servicio de Dermatologia, Hospital Universitario Principe de Asturias, Madrid,
+      Espana.
+FAU - Fernandez-Parrado, M
+AU  - Fernandez-Parrado M
+AD  - Servicio de Dermatologia, Hospital Universitario de Navarra, Pamplona, Espana.
+LA  - eng
+LA  - spa
+PT  - Journal Article
+TT  - FR - Potenciales tratamientos en viruela simica (monkeypox).
+DEP - 20220630
+PL  - Spain
+TA  - Actas Dermosifiliogr
+JT  - Actas dermo-sifiliograficas
+JID - 0373062
+SB  - IM
+OTO - NOTNLM
+OT  - Monkeypox
+OT  - Smallpox
+OT  - Tecovirimat
+OT  - Tratamiento
+OT  - Treatment
+OT  - Viruela
+EDAT- 2022/07/03 06:00
+MHDA- 2022/07/03 06:00
+CRDT- 2022/07/02 19:22
+PHST- 2022/05/27 00:00 [received]
+PHST- 2022/06/20 00:00 [accepted]
+PHST- 2022/07/03 06:00 [pubmed]
+PHST- 2022/07/03 06:00 [medline]
+PHST- 2022/07/02 19:22 [entrez]
+AID - S0001-7310(22)00601-9 [pii]
+AID - 10.1016/j.ad.2022.06.013 [doi]
+PST - aheadofprint
+SO  - Actas Dermosifiliogr. 2022 Jun 30. pii: S0001-7310(22)00601-9. doi:
+      10.1016/j.ad.2022.06.013.
+
+PMID- 35777458
+OWN - NLM
+STAT- Publisher
+LR  - 20220725
+IS  - 1578-2190 (Electronic)
+IS  - 0001-7310 (Linking)
+DP  - 2022 Jun 28
+TI  - RF - Monkeypox: Key Concepts.
+LID - S0001-7310(22)00600-7 [pii]
+LID - 10.1016/j.ad.2022.05.024 [doi]
+FAU - Pinto-Pulido, E L
+AU  - Pinto-Pulido EL
+AD  - Servicio de Dermatologia, Hospital Universitario Principe de Asturias,
+      Universidad de Alcala, Madrid, Espana. Electronic address:
+      elucia.pinto95@gmail.com.
+FAU - Fernandez-Parrado, M
+AU  - Fernandez-Parrado M
+AD  - Servicio de Dermatologia, Hospital Universitario de Navarra, Pamplona, Espana.
+FAU - Rodriguez-Cuadrado, F J
+AU  - Rodriguez-Cuadrado FJ
+AD  - Servicio de Dermatologia, Hospital Universitario Puerta de Hierro, Madrid,
+      Espana.
+LA  - eng
+LA  - spa
+PT  - Journal Article
+TT  - FR - Viruela simica: conceptos clave.
+DEP - 20220628
+PL  - Spain
+TA  - Actas Dermosifiliogr
+JT  - Actas dermo-sifiliograficas
+JID - 0373062
+SB  - IM
+OTO - NOTNLM
+OT  - Cutaneous manifestations
+OT  - Infecciones virales
+OT  - Manifestaciones cutaneas
+OT  - Monkeypox
+OT  - Vaccination
+OT  - Vacunacion
+OT  - Viral infections
+OT  - Viruela simica
+EDAT- 2022/07/02 06:00
+MHDA- 2022/07/02 06:00
+CRDT- 2022/07/01 19:23
+PHST- 2022/05/23 00:00 [received]
+PHST- 2022/05/24 00:00 [accepted]
+PHST- 2022/07/02 06:00 [pubmed]
+PHST- 2022/07/02 06:00 [medline]
+PHST- 2022/07/01 19:23 [entrez]
+AID - S0001-7310(22)00600-7 [pii]
+AID - 10.1016/j.ad.2022.05.024 [doi]
+PST - aheadofprint
+SO  - Actas Dermosifiliogr. 2022 Jun 28. pii: S0001-7310(22)00600-7. doi:
+      10.1016/j.ad.2022.05.024.
+
+PMID- 34311355
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210928
+LR  - 20210928
+IS  - 1879-1026 (Electronic)
+IS  - 0048-9697 (Linking)
+VI  - 797
+DP  - 2021 Nov 25
+TI  - Kinetic modeling of autotrophic microalgae mainline processes for sewage
+      treatment in phosphorus-replete and -deplete culture conditions.
+PG  - 149165
+LID - S0048-9697(21)04238-8 [pii]
+LID - 10.1016/j.scitotenv.2021.149165 [doi]
+AB  - A kinetic model of autotrophic microalgal growth in sewage was developed to
+      determine the biokinetic processes involved, including carbon-, nitrogen- and
+      phosphorus-limited microalgal growth, dependence on light intensity, temperature 
+      and pH, light attenuation and gas exchange to the atmosphere. A new feature was
+      the differentiation between two metabolic pathways of phosphorus consumption
+      according to the availability of extracellular phosphorus. Two scenarios were
+      differentiated: phosphorus-replete and -deplete culture conditions. In the
+      former, the microalgae absorbed phosphorus to grow and store polyphosphate. In
+      the latter the microalgae used the stored polyphosphate as a phosphorus source
+      for growth. Calibration and validation were performed with experimental data from
+      a pilot-scale membrane photobioreactor (MPBR) fed with the permeate obtained from
+      an anaerobic membrane bioreactor (AnMBR) pilot plant fed with real urban
+      wastewater. 12 of the model parameters were calibrated. Despite the dynamics
+      involved in the operating and environmental conditions, the model was able to
+      reproduce the overall process performance with a single set of model parameters
+      values. Four periods of different environmental and operational conditions were
+      accurately simulated. Regarding the former, light and temperature ranged 10-406
+      mumol.m(-2).s(-1) and 19.7-32.1 degrees C, respectively. Concerning the later,
+      the photobioreactors widths were 0.25 and 0.10 m, and the biomass and hydraulic
+      retention times ranged 3-4.5 and 1.5-2.5 days, respectively. The validation of
+      the model resulted in an overall correlation coefficient (R(2)) of 0.9954. The
+      simulation results showed the potential of the model to predict the dynamics of
+      the different components: the relative proportions of microalgae, nitrogen and
+      phosphorus removal, polyphosphate storage and consumption, and soluble organic
+      matter concentration, as well as the influence of environmental parameters on the
+      microalgae's biokinetic processes. The proposed model could provide an effective 
+      tool for the industry to predict microalgae production and comply with the
+      discharge limits in areas declared sensitive to eutrophication.
+CI  - Copyright (c) 2021 Elsevier B.V. All rights reserved.
+FAU - Viruela, Alexandre
+AU  - Viruela A
+AD  - CALAGUA, Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Aparicio, Stephanie
+AU  - Aparicio S
+AD  - CALAGUA, Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100, Burjassot, Valencia, Spain.
+      Electronic address: stephanie.aparicio@uv.es.
+FAU - Robles, Angel
+AU  - Robles A
+AD  - CALAGUA, Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100, Burjassot, Valencia, Spain.
+FAU - Borras Falomir, Luis
+AU  - Borras Falomir L
+AD  - CALAGUA, Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Serralta, Joaquin
+AU  - Serralta J
+AD  - CALAGUA, Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Seco, Aurora
+AU  - Seco A
+AD  - CALAGUA, Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100, Burjassot, Valencia, Spain.
+FAU - Ferrer, Jose
+AU  - Ferrer J
+AD  - CALAGUA, Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20210720
+PL  - Netherlands
+TA  - Sci Total Environ
+JT  - The Science of the total environment
+JID - 0330500
+RN  - 0 (Sewage)
+RN  - 0 (Waste Water)
+RN  - 27YLU75U4W (Phosphorus)
+RN  - N762921K75 (Nitrogen)
+SB  - IM
+MH  - Biomass
+MH  - *Microalgae
+MH  - Nitrogen/analysis
+MH  - Phosphorus
+MH  - Photobioreactors
+MH  - Sewage
+MH  - Waste Water
+OTO - NOTNLM
+OT  - Mathematical model
+OT  - Microalgae
+OT  - Nutrients removal
+OT  - Phosphorus storage
+OT  - Wastewater
+COIS- Declaration of competing interest The authors declare that they have no known
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/07/27 06:00
+MHDA- 2021/09/29 06:00
+CRDT- 2021/07/26 20:25
+PHST- 2021/05/26 00:00 [received]
+PHST- 2021/07/16 00:00 [revised]
+PHST- 2021/07/16 00:00 [accepted]
+PHST- 2021/07/27 06:00 [pubmed]
+PHST- 2021/09/29 06:00 [medline]
+PHST- 2021/07/26 20:25 [entrez]
+AID - S0048-9697(21)04238-8 [pii]
+AID - 10.1016/j.scitotenv.2021.149165 [doi]
+PST - ppublish
+SO  - Sci Total Environ. 2021 Nov 25;797:149165. doi: 10.1016/j.scitotenv.2021.149165. 
+      Epub 2021 Jul 20.
+
+PMID- 33351364
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201229
+LR  - 20201229
+IS  - 1853-0605 (Electronic)
+IS  - 0014-6722 (Linking)
+VI  - 77
+IP  - 4
+DP  - 2020 Dec 2
+TI  - [The Beginning of the End: Sars-Cov-2 Vaccines].
+PG  - 221-222
+LID - 10.31053/1853.0605.v77.n4.31138 [doi]
+AB  - En Berkeley Inglaterra en1749 nace Edward Jenner, el hombre que cambio la
+      historia de la medicina. En 1796 ya siendo medico visitaba tambos y observaba con
+      espiritu critico, las pustulas de las ordenadoras ocasionadas por la viruela
+      vacuna. En esa epoca morian anualmente en el mundo 9 millones de personas. Jenner
+      sabia por Lady Montagu (esposa del embajador ingles en Turquia) que alli
+      inoculaban desde 1721 virus de lesiones de viruela humana. Si bien algunos se
+      inmunizaban, un gran numero moria. En sus visitas a las ordenadoras, una de ellas
+      le dijo que no tenia miedo a la viruela porque estaba protegida por la
+      contaminacion vacuna. A ella le pidio que permitiera inocular con material de sus
+      pustulas a su hijo de 8 anos James Phipps, el nino tuvo fiebre leve que supero en
+      dias....
+CI  - Universidad Nacional de Cordoba.
+FAU - Pizzi, Hugo Luis
+AU  - Pizzi HL
+AD  - Facultad Ciencias Medicas. Universidad Nacional de Cordoba.
+      revistafcm@fcm.unc.edu.ar.
+LA  - spa
+PT  - Journal Article
+TT  - El principio del fin: Las vacunas contra Sars-Cov-2.
+DEP - 20201202
+PL  - Argentina
+TA  - Rev Fac Cien Med Univ Nac Cordoba
+JT  - Revista de la Facultad de Ciencias Medicas (Cordoba, Argentina)
+JID - 8303003
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - COVID-19/*prevention & control
+MH  - *COVID-19 Vaccines
+MH  - Humans
+EDAT- 2020/12/23 06:00
+MHDA- 2020/12/30 06:00
+CRDT- 2020/12/22 13:32
+PHST- 2020/12/02 00:00 [received]
+PHST- 2020/12/02 00:00 [accepted]
+PHST- 2020/12/22 13:32 [entrez]
+PHST- 2020/12/23 06:00 [pubmed]
+PHST- 2020/12/30 06:00 [medline]
+AID - 10.31053/1853.0605.v77.n4.31138 [doi]
+PST - epublish
+SO  - Rev Fac Cien Med Univ Nac Cordoba. 2020 Dec 2;77(4):221-222. doi:
+      10.31053/1853.0605.v77.n4.31138.
+
+PMID- 31945681
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200204
+LR  - 20200204
+IS  - 1873-2976 (Electronic)
+IS  - 0960-8524 (Linking)
+VI  - 301
+DP  - 2020 Apr
+TI  - Performance of a membrane-coupled high-rate algal pond for urban wastewater
+      treatment at demonstration scale.
+PG  - 122672
+LID - S0960-8524(19)31901-7 [pii]
+LID - 10.1016/j.biortech.2019.122672 [doi]
+AB  - The objective of this study was to evaluate the performance of an outdoor
+      membrane-coupled high-rate algal pond equipped with industrial-scale membranes
+      for treating urban wastewater. Decoupling biomass retention time (BRT) and
+      hydraulic retention time (HRT) by membrane filtration resulted in improved
+      process efficiencies, with higher biomass productivities and nutrient removal
+      rates when operating at low HRTs. At 6 days of BRT, biomass productivity
+      increased from 30 to 66 and to 95 g.m(-3).d(-1) when operating at HRTs of 6, 4
+      and 2.5 days, respectively. The corresponding nitrogen removal rates were 4, 8
+      and 11 g N.m(-3).d(-1) and the phosphorous removal rates were 0.5, 1.3 and 1.6 g 
+      P.m(-3).d(-1). The system was operated keeping moderate specific air demands
+      (0.25 m(3).m(-2).h(-1)), resulting in reasonable operating and maintenance costs 
+      (euro0.04 per m(3)) and energy requirements (0.29 kWh per m(3)). The produced
+      water was free of pathogens and could be directly used for reusing purposes.
+CI  - Copyright (c) 2019 Elsevier Ltd. All rights reserved.
+FAU - Robles, Angel
+AU  - Robles A
+AD  - Departament d'Enginyeria Quimica, Escola Tecnica Superior d'Enginyeria,
+      Universitat de Valencia, Avinguda de la Universitat s/n, 46100 Burjassot,
+      Valencia, Spain. Electronic address: angel.robles@uv.es.
+FAU - Capson-Tojo, Gabriel
+AU  - Capson-Tojo G
+AD  - CRETUS Institute, Department of Chemical Engineering, School of Engineering,
+      Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+FAU - Gales, Amandine
+AU  - Gales A
+AD  - LBE, Univ. Montpellier, INRA, 102 avenue des Etangs, 11100 Narbonne, France.
+FAU - Viruela, Alexandre
+AU  - Viruela A
+AD  - Institut Universitari d'Investigacio d'Enginyeria de l'Aigua i Medi Ambient
+      (IIAMA), Universitat Politecnica de Valencia, Cami de Vera s/n, 46022 Valencia,
+      Spain.
+FAU - Sialve, Bruno
+AU  - Sialve B
+AD  - LBE, Univ. Montpellier, INRA, 102 avenue des Etangs, 11100 Narbonne, France.
+FAU - Seco, Aurora
+AU  - Seco A
+AD  - Departament d'Enginyeria Quimica, Escola Tecnica Superior d'Enginyeria,
+      Universitat de Valencia, Avinguda de la Universitat s/n, 46100 Burjassot,
+      Valencia, Spain.
+FAU - Steyer, Jean-Philippe
+AU  - Steyer JP
+AD  - LBE, Univ. Montpellier, INRA, 102 avenue des Etangs, 11100 Narbonne, France.
+FAU - Ferrer, Jose
+AU  - Ferrer J
+AD  - Institut Universitari d'Investigacio d'Enginyeria de l'Aigua i Medi Ambient
+      (IIAMA), Universitat Politecnica de Valencia, Cami de Vera s/n, 46022 Valencia,
+      Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20191224
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Waste Water)
+RN  - N762921K75 (Nitrogen)
+SB  - IM
+MH  - Biomass
+MH  - Nitrogen
+MH  - Ponds
+MH  - Waste Disposal, Fluid
+MH  - *Waste Water
+MH  - *Water Purification
+OTO - NOTNLM
+OT  - HRAP
+OT  - Hollow-fibre membranes
+OT  - Industrial-scale
+OT  - Nutrient recovery
+OT  - Ultrafiltration
+COIS- Declaration of Competing Interest The authors declare that they have no known
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2020/01/17 06:00
+MHDA- 2020/02/06 06:00
+CRDT- 2020/01/17 06:00
+PHST- 2019/10/31 00:00 [received]
+PHST- 2019/12/19 00:00 [revised]
+PHST- 2019/12/21 00:00 [accepted]
+PHST- 2020/01/17 06:00 [pubmed]
+PHST- 2020/02/06 06:00 [medline]
+PHST- 2020/01/17 06:00 [entrez]
+AID - S0960-8524(19)31901-7 [pii]
+AID - 10.1016/j.biortech.2019.122672 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2020 Apr;301:122672. doi: 10.1016/j.biortech.2019.122672. Epub
+      2019 Dec 24.
+
+PMID- 31372477
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2352-3409 (Electronic)
+IS  - 2352-3409 (Linking)
+VI  - 25
+DP  - 2019 Aug
+TI  - Dataset to assess the shadow effect of an outdoor microalgae culture.
+PG  - 104143
+LID - 10.1016/j.dib.2019.104143 [doi]
+AB  - This data in brief (DIB) article is related to a Research article [1]. Microalgae
+      biomass absorb the light photons that are supplied to the culture, reducing the
+      light availability in the inner parts of the photobioreactors. This is known as
+      self-shading or shadow effect. This effect has been widely studied in lab
+      conditions, but information about self-shading in outdoor photobioreactors is
+      scarce. How this shadow effect affects the light availability in an outdoor
+      photobioreactor was evaluated. In addition, advantages and disadvantages of
+      different artificial light sources which can overcome light limitation are
+      described.
+FAU - Gonzalez-Camejo, J
+AU  - Gonzalez-Camejo J
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Viruela, A
+AU  - Viruela A
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Ruano, M V
+AU  - Ruano MV
+AD  - CALAGUA - Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100 Burjassot, Valencia, Spain.
+FAU - Barat, R
+AU  - Barat R
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Seco, A
+AU  - Seco A
+AD  - CALAGUA - Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100 Burjassot, Valencia, Spain.
+FAU - Ferrer, J
+AU  - Ferrer J
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20190618
+PL  - Netherlands
+TA  - Data Brief
+JT  - Data in brief
+JID - 101654995
+PMC - PMC6657023
+OTO - NOTNLM
+OT  - Microalgae cultivation
+OT  - Outdoor
+OT  - Shadow effect
+EDAT- 2019/08/03 06:00
+MHDA- 2019/08/03 06:01
+CRDT- 2019/08/03 06:00
+PHST- 2019/04/24 00:00 [received]
+PHST- 2019/05/29 00:00 [revised]
+PHST- 2019/06/05 00:00 [accepted]
+PHST- 2019/08/03 06:00 [entrez]
+PHST- 2019/08/03 06:00 [pubmed]
+PHST- 2019/08/03 06:01 [medline]
+AID - 10.1016/j.dib.2019.104143 [doi]
+AID - S2352-3409(19)30497-4 [pii]
+AID - 104143 [pii]
+PST - epublish
+SO  - Data Brief. 2019 Jun 18;25:104143. doi: 10.1016/j.dib.2019.104143. eCollection
+      2019 Aug.
+
+PMID- 31957276
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200120
+IS  - 2192-6506 (Electronic)
+IS  - 2192-6506 (Linking)
+VI  - 83
+IP  - 4
+DP  - 2018 Apr
+TI  - The Role of Planarity versus Nonplanarity in the Electronic Communication of
+      TCAQ-Based Push-Pull Chromophores.
+PG  - 300-307
+LID - 10.1002/cplu.201700553 [doi]
+AB  - Donor-acceptor-substituted alkynes, endowed with
+      11,11,12,12-tetracyano-9,10-anthraquinodimethane (TCAQ) and N,N-dimethylaniline
+      (DMA) units, have been further functionalized by a [2+2] cycloaddition with
+      tetracyanoethylene (TCNE) followed by a subsequent retro-electrocyclization to
+      form distorted nonplanar structures with bridging
+      1,1,4,4-tetracyanobuta-1,3-diene (TCBD) units. Comprehensive spectroscopic,
+      electrochemical, and computational studies have been carried out to compare the
+      electronic communication in planar (alkyne bridges) and nonplanar (TCBD bridges) 
+      TCAQ-based push-pull chromophores. Cyclic voltammetry and UV/Vis absorption
+      measurements confirm the electronic communication between the TCAQ and DMA units 
+      despite the nonplanarity of the TCBD group. The experimental trends are strongly 
+      supported by density functional theory calculations, which further support the
+      active electron-withdrawing role of the TCBD bridges. The novel push-pull
+      TCAQ-based derivatives incorporating the TCBD bridge show a broad absorption in
+      the whole visible range while the structures are highly distorted from planarity.
+CI  - (c) 2018 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Garcia, Raul
+AU  - Garcia R
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense de
+      Madrid, 28040, Madrid, Spain.
+FAU - Calbo, Joaquin
+AU  - Calbo J
+AUID- ORCID: http://orcid.org/0000-0003-4729-0757
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, 46980, Paterna, Spain.
+FAU - Viruela, Rafael
+AU  - Viruela R
+AUID- ORCID: http://orcid.org/0000-0002-0694-0517
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, 46980, Paterna, Spain.
+FAU - Herranz, M Angeles
+AU  - Herranz MA
+AUID- ORCID: http://orcid.org/0000-0001-9155-134X
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense de
+      Madrid, 28040, Madrid, Spain.
+FAU - Orti, Enrique
+AU  - Orti E
+AUID- ORCID: http://orcid.org/0000-0001-9544-8286
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, 46980, Paterna, Spain.
+FAU - Martin, Nazario
+AU  - Martin N
+AUID- ORCID: http://orcid.org/0000-0002-5355-1477
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense de
+      Madrid, 28040, Madrid, Spain.
+AD  - IMDEA-Nanociencia, c/Faraday 9, Campus Cantoblanco, 28049, Madrid, Spain.
+LA  - eng
+GR  - ERC-320441-Chirallcarbon/ERC_/European Research Council/International
+GR  - CTQ2014-52045-R/MINECO of Spain
+GR  - CTQ2015-71154-P/MINECO of Spain
+GR  - CTQ2016-81911-REDT/MINECO of Spain
+GR  - MDM-2015-0538/MINECO of Spain
+GR  - S2013/MIT-2841/Comunidad de Madrid
+GR  - PROMETEO/2016/135/Generalitat Valenciana
+GR  - APOSTD/2017/081/Generalitat Valenciana
+GR  - CTQ2015-71154-P/European Feder Funds
+GR  - FP/ITN (MOLESCO, project n masculine 606728)/The European Commission (EC)
+PT  - Journal Article
+DEP - 20180302
+PL  - Germany
+TA  - Chempluschem
+JT  - ChemPlusChem
+JID - 101580948
+SB  - IM
+OTO - NOTNLM
+OT  - cycloaddition/electro-cyclization reactions
+OT  - density functional calculations
+OT  - donor-acceptor systems
+OT  - tetracyanobutadiene
+EDAT- 2018/04/01 00:00
+MHDA- 2018/04/01 00:01
+CRDT- 2020/01/21 06:00
+PHST- 2017/12/20 00:00 [received]
+PHST- 2018/02/07 00:00 [revised]
+PHST- 2020/01/21 06:00 [entrez]
+PHST- 2018/04/01 00:00 [pubmed]
+PHST- 2018/04/01 00:01 [medline]
+AID - 10.1002/cplu.201700553 [doi]
+PST - ppublish
+SO  - Chempluschem. 2018 Apr;83(4):300-307. doi: 10.1002/cplu.201700553. Epub 2018 Mar 
+      2.
+
+PMID- 28777986
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171023
+LR  - 20181202
+IS  - 1873-2976 (Electronic)
+IS  - 0960-8524 (Linking)
+VI  - 244
+IP  - Pt 1
+DP  - 2017 Nov
+TI  - Short and long-term experiments on the effect of sulphide on microalgae
+      cultivation in tertiary sewage treatment.
+PG  - 15-22
+LID - S0960-8524(17)31242-7 [pii]
+LID - 10.1016/j.biortech.2017.07.126 [doi]
+AB  - Microalgae cultivation appears to be a promising technology for treating
+      nutrient-rich effluents from anaerobic membrane bioreactors, as microalgae are
+      able to consume nutrients from sewage without an organic carbon source, although 
+      the sulphide formed during the anaerobic treatment does have negative effects on 
+      microalgae growth. Short and long-term experiments were carried out on the
+      effects of sulphide on a mixed microalgae culture. The short-term experiments
+      showed that the oxygen production rate (OPR) dropped as sulphide concentration
+      increased: a concentration of 5mgSL(-1) reduced OPR by 43%, while a concentration
+      of 50mgSL(-1) came close to completely inhibiting microalgae growth. The
+      long-term experiments revealed that the presence of sulphide in the influent had 
+      inhibitory effects at sulphide concentrations above 20mgSL(-1) in the culture,
+      but not at concentrations below 5mgSL(-1). These conditions favoured Chlorella
+      growth over that of Scenedesmus.
+CI  - Copyright (c) 2017 Elsevier Ltd. All rights reserved.
+FAU - Gonzalez-Camejo, J
+AU  - Gonzalez-Camejo J
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Serna-Garcia, R
+AU  - Serna-Garcia R
+AD  - CALAGUA - Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100 Burjassot, Valencia, Spain.
+FAU - Viruela, A
+AU  - Viruela A
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Paches, M
+AU  - Paches M
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Duran, F
+AU  - Duran F
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain.
+FAU - Robles, A
+AU  - Robles A
+AD  - CALAGUA - Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100 Burjassot, Valencia, Spain.
+FAU - Ruano, M V
+AU  - Ruano MV
+AD  - CALAGUA - Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100 Burjassot, Valencia, Spain.
+FAU - Barat, R
+AU  - Barat R
+AD  - CALAGUA - Unidad Mixta UV-UPV, Institut Universitari d'Investigacio d'Enginyeria 
+      de l'Aigua i Medi Ambient - IIAMA, Universitat Politecnica de Valencia, Cami de
+      Vera s/n, 46022 Valencia, Spain. Electronic address: rababa@dihma.upv.es.
+FAU - Seco, A
+AU  - Seco A
+AD  - CALAGUA - Unidad Mixta UV-UPV, Departament d'Enginyeria Quimica, Universitat de
+      Valencia, Avinguda de la Universitat s/n, 46100 Burjassot, Valencia, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20170725
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Sewage)
+RN  - 0 (Sulfides)
+SB  - IM
+MH  - Chlorella
+MH  - *Microalgae
+MH  - Scenedesmus
+MH  - Sewage
+MH  - *Sulfides
+OTO - NOTNLM
+OT  - Chlorella
+OT  - Microalgae
+OT  - Scenedesmus
+OT  - Sewage
+OT  - Sulphide
+EDAT- 2017/08/05 06:00
+MHDA- 2017/10/24 06:00
+CRDT- 2017/08/05 06:00
+PHST- 2017/06/05 00:00 [received]
+PHST- 2017/07/18 00:00 [revised]
+PHST- 2017/07/21 00:00 [accepted]
+PHST- 2017/08/05 06:00 [pubmed]
+PHST- 2017/10/24 06:00 [medline]
+PHST- 2017/08/05 06:00 [entrez]
+AID - S0960-8524(17)31242-7 [pii]
+AID - 10.1016/j.biortech.2017.07.126 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2017 Nov;244(Pt 1):15-22. doi: 10.1016/j.biortech.2017.07.126.
+      Epub 2017 Jul 25.
+
+PMID- 27595419
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20180105
+LR  - 20180105
+IS  - 1439-7641 (Electronic)
+IS  - 1439-4235 (Linking)
+VI  - 17
+IP  - 23
+DP  - 2016 Dec 5
+TI  - Relationship between Electron Affinity and Half-Wave Reduction Potential: A
+      Theoretical Study on Cyclic Electron-Acceptor Compounds.
+PG  - 3881-3890
+LID - 10.1002/cphc.201600778 [doi]
+AB  - A high-level ab initio protocol to compute accurate electron affinities and
+      half-wave reduction potentials is presented and applied for a series of
+      electron-acceptor compounds with potential interest in organic electronics and
+      redox flow batteries. The comprehensive comparison between the theoretical and
+      experimental electron affinities not only proves the reliability of the
+      theoretical G3(MP2) approach employed but also calls into question certain
+      experimental measurements, which need to be revised. By using the thermodynamic
+      cycle for the one-electron attachment reaction A+e(-) -->A(-) , theoretical
+      estimates for the first half-wave reduction potential have been computed along
+      the series of electron-acceptor systems investigated, with maximum deviations
+      from experiment of only 0.2 V. The precise inspection of the terms contributing
+      to the half-wave reduction potential shows that the difference in the free energy
+      of solvation between the neutral and the anionic species (DeltaDeltaGsolv ) plays
+      a crucial role in accurately estimating the electron-acceptor properties in
+      solution, and thus it cannot be considered constant even in a family of related
+      compounds. This term, which can be used to explain the occasional lack of
+      correlation between electron affinities and reduction potentials, is rationalized
+      by the (de)localization of the additional electron involved in the reduction
+      process along the pi-conjugated chemical structure.
+CI  - (c) 2016 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Calbo, Joaquin
+AU  - Calbo J
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, Catedratico Jose Beltran
+      2, 46980, Paterna, Spain.
+FAU - Viruela, Rafael
+AU  - Viruela R
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, Catedratico Jose Beltran
+      2, 46980, Paterna, Spain.
+FAU - Orti, Enrique
+AU  - Orti E
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, Catedratico Jose Beltran
+      2, 46980, Paterna, Spain.
+FAU - Arago, Juan
+AU  - Arago J
+AUID- ORCID: http://orcid.org/0000-0002-0415-9946
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, Catedratico Jose Beltran
+      2, 46980, Paterna, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20160928
+PL  - Germany
+TA  - Chemphyschem
+JT  - Chemphyschem : a European journal of chemical physics and physical chemistry
+JID - 100954211
+OTO - NOTNLM
+OT  - ab initio calculations
+OT  - electron affinity
+OT  - reduction
+OT  - thermodynamics
+OT  - voltammetry
+EDAT- 2016/09/07 06:00
+MHDA- 2016/09/07 06:01
+CRDT- 2016/09/06 06:00
+PHST- 2016/07/16 00:00 [received]
+PHST- 2016/09/07 06:00 [pubmed]
+PHST- 2016/09/07 06:01 [medline]
+PHST- 2016/09/06 06:00 [entrez]
+AID - 10.1002/cphc.201600778 [doi]
+PST - ppublish
+SO  - Chemphyschem. 2016 Dec 5;17(23):3881-3890. doi: 10.1002/cphc.201600778. Epub 2016
+      Sep 28.
+
+PMID- 27394990
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170206
+LR  - 20181202
+IS  - 1873-2976 (Electronic)
+IS  - 0960-8524 (Linking)
+VI  - 218
+DP  - 2016 Oct
+TI  - Water resource recovery by means of microalgae cultivation in outdoor
+      photobioreactors using the effluent from an anaerobic membrane bioreactor fed
+      with pre-treated sewage.
+PG  - 447-54
+LID - 10.1016/j.biortech.2016.06.116 [doi]
+LID - S0960-8524(16)30940-3 [pii]
+AB  - With the aim of assessing the potential of microalgae cultivation for water
+      resource recovery (WRR), the performance of three 0.55m(3) flat-plate
+      photobioreactors (PBRs) was evaluated in terms of nutrient removal rate (NRR) and
+      biomass production. The PBRs were operated outdoor (at ambient temperature and
+      light intensity) using as growth media the nutrient-rich effluent from an AnMBR
+      fed with pre-treated sewage. Solar irradiance was the most determining factor
+      affecting NRR. Biomass productivity was significantly affected by temperatures
+      below 20 degrees C. The maximum biomass productivity (52.3mgVSS.L(-1).d(-1)) and 
+      NRR (5.84mgNH4-N.L(-1).d(-1) and 0.85mgPO4-P.L(-1).d(-1)) were achieved at solar 
+      irradiance of 395muE.m(-2).s(-1), temperature of 25.5 degrees C, and HRT of
+      8days. Under these conditions, it was possible to comply with effluent nutrient
+      standards (European Directive 91/271/CEE) when the nutrient content in the
+      influent was in the range of 40-50mgN.L(-1) and 6-7mg P.L(-1).
+CI  - Copyright (c) 2016 Elsevier Ltd. All rights reserved.
+FAU - Viruela, Alexandre
+AU  - Viruela A
+AD  - Instituto de Ingenieria del Agua y Medio Ambiente, IIAMA, Universitat Politecnica
+      de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. Electronic address:
+      alvina@upv.es.
+FAU - Murgui, Monica
+AU  - Murgui M
+AD  - Departament d'Enginyeria Quimica, Escola Tecnica Superior d'Enginyeria,
+      Universitat de Valencia, Avinguda de la Universitat s/n, 46100 Burjassot,
+      Valencia, Spain. Electronic address: monica.murgui@uv.es.
+FAU - Gomez-Gil, Tao
+AU  - Gomez-Gil T
+AD  - Instituto de Ingenieria del Agua y Medio Ambiente, IIAMA, Universitat Politecnica
+      de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. Electronic address:
+      tagogi@upv.es.
+FAU - Duran, Freddy
+AU  - Duran F
+AD  - Instituto de Ingenieria del Agua y Medio Ambiente, IIAMA, Universitat Politecnica
+      de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. Electronic address:
+      fredurpi@upv.es.
+FAU - Robles, Angel
+AU  - Robles A
+AD  - Instituto de Ingenieria del Agua y Medio Ambiente, IIAMA, Universitat Politecnica
+      de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. Electronic address:
+      ngerobma@upv.es.
+FAU - Ruano, Maria Victoria
+AU  - Ruano MV
+AD  - Departament d'Enginyeria Quimica, Escola Tecnica Superior d'Enginyeria,
+      Universitat de Valencia, Avinguda de la Universitat s/n, 46100 Burjassot,
+      Valencia, Spain. Electronic address: m.victoria.ruano@uv.es.
+FAU - Ferrer, Jose
+AU  - Ferrer J
+AD  - Instituto de Ingenieria del Agua y Medio Ambiente, IIAMA, Universitat Politecnica
+      de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. Electronic address:
+      jferrer@hma.upv.es.
+FAU - Seco, Aurora
+AU  - Seco A
+AD  - Departament d'Enginyeria Quimica, Escola Tecnica Superior d'Enginyeria,
+      Universitat de Valencia, Avinguda de la Universitat s/n, 46100 Burjassot,
+      Valencia, Spain. Electronic address: aurora.seco@uv.es.
+LA  - eng
+PT  - Journal Article
+DEP - 20160630
+PL  - England
+TA  - Bioresour Technol
+JT  - Bioresource technology
+JID - 9889523
+RN  - 0 (Culture Media)
+RN  - 0 (Membranes, Artificial)
+RN  - 0 (Sewage)
+RN  - 0 (Waste Water)
+SB  - IM
+MH  - Biomass
+MH  - Bioreactors
+MH  - Biotechnology
+MH  - Culture Media
+MH  - Light
+MH  - Membranes, Artificial
+MH  - Microalgae/*growth & development
+MH  - *Photobioreactors
+MH  - Scenedesmus
+MH  - *Sewage
+MH  - Temperature
+MH  - Waste Water
+MH  - *Water Microbiology
+MH  - Water Resources
+OTO - NOTNLM
+OT  - Flat-plate photobioreactors
+OT  - Microalgae
+OT  - Nutrient removal
+OT  - Outdoor cultivation
+OT  - Wastewater
+EDAT- 2016/07/11 06:00
+MHDA- 2017/02/07 06:00
+CRDT- 2016/07/11 06:00
+PHST- 2016/05/04 00:00 [received]
+PHST- 2016/06/27 00:00 [revised]
+PHST- 2016/06/28 00:00 [accepted]
+PHST- 2016/07/11 06:00 [entrez]
+PHST- 2016/07/11 06:00 [pubmed]
+PHST- 2017/02/07 06:00 [medline]
+AID - S0960-8524(16)30940-3 [pii]
+AID - 10.1016/j.biortech.2016.06.116 [doi]
+PST - ppublish
+SO  - Bioresour Technol. 2016 Oct;218:447-54. doi: 10.1016/j.biortech.2016.06.116. Epub
+      2016 Jun 30.
+
+PMID- 27148121
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160505
+LR  - 20201001
+IS  - 1664-1078 (Print)
+IS  - 1664-1078 (Linking)
+VI  - 7
+DP  - 2016
+TI  - An Investigation of Five Types of Personality Trait Continuity: A Two-Wave
+      Longitudinal Study of Spanish Adolescents from Age 12 to Age 15.
+PG  - 512
+LID - 10.3389/fpsyg.2016.00512 [doi]
+AB  - The present study investigated five types of personality trait continuity using
+      two measurement waves of Spanish adolescents (N = 234). Personality traits were
+      measured with the short form of the Junior Spanish NEO-PI-R (JS NEO-S) at ages 12
+      and 15. The results showed stability in the personality trait structure, as well 
+      as decreases in the mean levels of agreeableness and conscientiousness. The
+      results also showed moderate rank-order consistency. Individual-level changes
+      were more pronounced for neuroticism and conscientiousness. Approximately 90% of 
+      the participants showed ipsative consistency. The findings showed some
+      personality trait changes occurred from age 12 to 15, but the changes were less
+      marked than expected during this period of biological and social development. Our
+      results also support the disruption hypothesis, as we found dips in
+      conscientiousness and, to a lesser degree, agreeableness.
+FAU - Ibanez, Manuel I
+AU  - Ibanez MI
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      ICastello, Spain; Centre for Biomedical Research Network on Mental Health,
+      Instituto de Salud Carlos IIIMadrid, Spain.
+FAU - Viruela, Ana M
+AU  - Viruela AM
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      I Castello, Spain.
+FAU - Mezquita, Laura
+AU  - Mezquita L
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      I Castello, Spain.
+FAU - Moya, Jorge
+AU  - Moya J
+AD  - Centre for Biomedical Research Network on Mental Health, Instituto de Salud
+      Carlos IIIMadrid, Spain; Department of Pedagogy and Psychology, Universitat de
+      LleidaLleida, Spain.
+FAU - Villa, Helena
+AU  - Villa H
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      I Castello, Spain.
+FAU - Camacho, Laura
+AU  - Camacho L
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      I Castello, Spain.
+FAU - Ortet, Generos
+AU  - Ortet G
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      ICastello, Spain; Centre for Biomedical Research Network on Mental Health,
+      Instituto de Salud Carlos IIIMadrid, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20160418
+PL  - Switzerland
+TA  - Front Psychol
+JT  - Frontiers in psychology
+JID - 101550902
+PMC - PMC4834418
+OTO - NOTNLM
+OT  - change
+OT  - development
+OT  - five-factor model
+OT  - personality
+OT  - stability
+EDAT- 2016/05/06 06:00
+MHDA- 2016/05/06 06:01
+CRDT- 2016/05/06 06:00
+PHST- 2015/10/13 00:00 [received]
+PHST- 2016/03/29 00:00 [accepted]
+PHST- 2016/05/06 06:00 [entrez]
+PHST- 2016/05/06 06:00 [pubmed]
+PHST- 2016/05/06 06:01 [medline]
+AID - 10.3389/fpsyg.2016.00512 [doi]
+PST - epublish
+SO  - Front Psychol. 2016 Apr 18;7:512. doi: 10.3389/fpsyg.2016.00512. eCollection
+      2016.
+
+PMID- 27142262
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20171226
+LR  - 20171226
+IS  - 1364-548X (Electronic)
+IS  - 1359-7345 (Linking)
+VI  - 52
+IP  - 42
+DP  - 2016 May 25
+TI  - Helical supramolecular polymerization of C3-symmetric amides and retroamides: on 
+      the origin of cooperativity and handedness.
+PG  - 6907-10
+LID - 10.1039/c6cc02681h [doi]
+AB  - The cooperative supramolecular polymerization of 1 and 2 yields P- or M-type
+      helical aggregates depending on the absolute configuration (S or R) of the
+      stereogenic centres attached to the side chains. The connectivity of the amide
+      group does not affect the handedness of the helical aggregates, but determines a 
+      larger cooperativity for retroamides 1.
+FAU - Buendia, Julia
+AU  - Buendia J
+AD  - Departamento de Quimica Organica, Facultad de Ciencias Quimicas, Ciudad
+      Universitaria s/n, 28040 Madrid, Spain. lusamar@quim.ucm.es.
+FAU - Calbo, Joaquin
+AU  - Calbo J
+FAU - Garcia, Fatima
+AU  - Garcia F
+FAU - Arago, Juan
+AU  - Arago J
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Sanchez, Luis
+AU  - Sanchez L
+LA  - eng
+PT  - Journal Article
+DEP - 20160504
+PL  - England
+TA  - Chem Commun (Camb)
+JT  - Chemical communications (Cambridge, England)
+JID - 9610838
+EDAT- 2016/05/05 06:00
+MHDA- 2016/05/05 06:01
+CRDT- 2016/05/05 06:00
+PHST- 2016/05/05 06:00 [entrez]
+PHST- 2016/05/05 06:00 [pubmed]
+PHST- 2016/05/05 06:01 [medline]
+AID - 10.1039/c6cc02681h [doi]
+PST - ppublish
+SO  - Chem Commun (Camb). 2016 May 25;52(42):6907-10. doi: 10.1039/c6cc02681h. Epub
+      2016 May 4.
+
+PMID- 26038851
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170427
+LR  - 20181202
+IS  - 1678-4758 (Electronic)
+IS  - 0104-5970 (Linking)
+VI  - 22
+IP  - 2
+DP  - 2015 Jan-Apr
+TI  - Control, containment and health education in the smallpox-vaccination campaigns
+      in Mexico in the 1940s.
+PG  - 355-70
+LID - 10.1590/S0104-59702015000200004 [doi]
+LID - S0104-59702015000200004 [pii]
+AB  - This article examines some of the changes that the Mexican vaccination programs
+      underwent starting in 1943, the year when the National Smallpox Campaign (Campana
+      Nacional contra la Viruela) was established. It analyzes why a uniform and
+      coordinated vaccination method was adopted to counter the outbreaks of this
+      endemic disease, especially in central Mexico; the actions of its numerous and
+      heterogeneous staff; and the reasons why smallpox vaccination was considered
+      critical to establish a culture of prevention. In summary, the article examines
+      why selective vaccination was chosen and the expansion of the health-education
+      programs, topics that have been seldom addressed in historical research.
+FAU - Agostoni, Claudia
+AU  - Agostoni C
+AD  - Instituto de Investigaciones Historicas, Universidad Nacional Autonoma de Mexico,
+      Coyoacan, DF, Mexico, agostoni@unam.mx.
+LA  - eng
+LA  - spa
+PT  - Historical Article
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Brazil
+TA  - Hist Cienc Saude Manguinhos
+JT  - Historia, ciencias, saude--Manguinhos
+JID - 9513999
+MH  - Disease Outbreaks/history/prevention & control
+MH  - Endemic Diseases/history/prevention & control
+MH  - Health Education/history
+MH  - History, 20th Century
+MH  - Humans
+MH  - Immunization Programs/*history
+MH  - Mexico
+MH  - Smallpox/*history/prevention & control
+MH  - Vaccination/history/methods
+MH  - Workforce
+EDAT- 2015/06/04 06:00
+MHDA- 2017/04/28 06:00
+CRDT- 2015/06/04 06:00
+PHST- 2013/07/01 00:00 [received]
+PHST- 2013/11/01 00:00 [accepted]
+PHST- 2015/06/04 06:00 [entrez]
+PHST- 2015/06/04 06:00 [pubmed]
+PHST- 2017/04/28 06:00 [medline]
+AID - S0104-59702015000200004 [pii]
+AID - 10.1590/S0104-59702015000200004 [doi]
+PST - ppublish
+SO  - Hist Cienc Saude Manguinhos. 2015 Jan-Apr;22(2):355-70. doi:
+      10.1590/S0104-59702015000200004.
+
+PMID- 25597927
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150521
+LR  - 20150213
+IS  - 1521-3773 (Electronic)
+IS  - 1433-7851 (Linking)
+VI  - 54
+IP  - 8
+DP  - 2015 Feb 16
+TI  - Non-centrosymmetric homochiral supramolecular polymers of tetrahedral
+      subphthalocyanine molecules.
+PG  - 2543-7
+LID - 10.1002/anie.201411272 [doi]
+AB  - A combination of spectroscopy (UV/Vis absorption, emission, and circular
+      dichroism), microscopy (AFM and TEM), and computational studies reveal the
+      formation of non-centrosymmetric homochiral columnar subphthalocyanine
+      assemblies. These assemblies form through a cooperative supramolecular
+      polymerization process driven by hydrogen-bonding between amide groups, pi-pi
+      stacking, and dipolar interactions between axial B-F bonds.
+CI  - (c) 2015 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Guilleme, Julia
+AU  - Guilleme J
+AD  - Departamento de Quimica Organica, Facultad de Ciencias, Universidad Autonoma de
+      Madrid, 28049 Madrid (Spain).
+FAU - Mayoral, Maria J
+AU  - Mayoral MJ
+FAU - Calbo, Joaquin
+AU  - Calbo J
+FAU - Arago, Juan
+AU  - Arago J
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Torres, Tomas
+AU  - Torres T
+FAU - Gonzalez-Rodriguez, David
+AU  - Gonzalez-Rodriguez D
+LA  - eng
+PT  - Journal Article
+DEP - 20150119
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+OTO - NOTNLM
+OT  - homochiral aggregates
+OT  - porphyrinoids
+OT  - self-assembly
+OT  - subphthalocyanine
+OT  - supramolecular polymerization
+EDAT- 2015/01/20 06:00
+MHDA- 2015/01/20 06:01
+CRDT- 2015/01/20 06:00
+PHST- 2014/11/20 00:00 [received]
+PHST- 2015/01/20 06:00 [entrez]
+PHST- 2015/01/20 06:00 [pubmed]
+PHST- 2015/01/20 06:01 [medline]
+AID - 10.1002/anie.201411272 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2015 Feb 16;54(8):2543-7. doi: 10.1002/anie.201411272.
+      Epub 2015 Jan 19.
+
+PMID- 24643466
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141104
+LR  - 20211021
+IS  - 0948-5023 (Electronic)
+IS  - 0948-5023 (Linking)
+VI  - 20
+IP  - 4
+DP  - 2014 Apr
+TI  - Theoretical insight on novel donor-acceptor exTTF-based dyes for dye-sensitized
+      solar cells.
+PG  - 2188
+LID - 10.1007/s00894-014-2188-6 [doi]
+AB  - A thorough density functional theory study is performed for the three
+      carboxyl-based derivatives of the exTTF-TCF chromophore, where the pi-extended
+      tetrathiafulvalene (exTTF) electron-donor is linked to the tricyanofuran (TCF)
+      electron-acceptor through an ethylene bridge, as dyes for dye-sensitized solar
+      cells. Calculations predict that the carboxyl group in the acceptor moiety adopts
+      an adequate orientation for an efficient anchoring on the semiconductor TiO(2)
+      surface. The carboxylic acid group holds a negative charge twice larger than the 
+      cyano moiety that favors the electron injection to the semiconductor.
+      Time-dependent calculations allow for the assignment of the absorption bands in
+      the UV-vis spectrum of exTTF-TCF and confirm the presence of two low-lying
+      charge-transfer electronic transitions that account for the moderately-intense
+      absorption in the 450-800 nm range. The striking optical absorption properties of
+      exTTF-TCF are preserved for the carboxylic analogues. Finally, periodic
+      calculations show relevant topological differences between the carboxylic
+      derivatives anchored on the TiO(2) surface, which would notably influence in the 
+      power conversion efficiency of a dye-sensitized solar cell.
+FAU - Calbo, Joaquin
+AU  - Calbo J
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, 46980, Paterna, Spain.
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140319
+PL  - Germany
+TA  - J Mol Model
+JT  - Journal of molecular modeling
+JID - 9806569
+RN  - 0 (Heterocyclic Compounds)
+RN  - HY1EN16W9T (tetrathiafulvalene)
+SB  - IM
+MH  - *Bioelectric Energy Sources
+MH  - Heterocyclic Compounds/*chemistry
+MH  - *Models, Theoretical
+MH  - *Solar Energy
+EDAT- 2014/03/20 06:00
+MHDA- 2014/11/05 06:00
+CRDT- 2014/03/20 06:00
+PHST- 2013/12/24 00:00 [received]
+PHST- 2014/02/24 00:00 [accepted]
+PHST- 2014/03/20 06:00 [entrez]
+PHST- 2014/03/20 06:00 [pubmed]
+PHST- 2014/11/05 06:00 [medline]
+AID - 10.1007/s00894-014-2188-6 [doi]
+PST - ppublish
+SO  - J Mol Model. 2014 Apr;20(4):2188. doi: 10.1007/s00894-014-2188-6. Epub 2014 Mar
+      19.
+
+PMID- 24124788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140807
+LR  - 20151119
+IS  - 1886-144X (Electronic)
+IS  - 0214-9915 (Linking)
+VI  - 25
+IP  - 4
+DP  - 2013
+TI  - Spanish adaptation of the Expectancy Questionnaire (EQ) about alcohol effects in 
+      adolescents.
+PG  - 529-35
+LID - 10.7334/psicothema2012.354 [doi]
+AB  - BACKGROUND: Alcohol-related expectancies are especially relevant in relation to
+      alcohol consumption during adolescence. The main aim of this study was to adapt
+      and translate into Spanish (Castilian) the Expectancy Questionnaire (EQ), and to 
+      study its psychometric properties in adolescents. METHOD: The sample was composed
+      of 514 adolescents (57.20% female, mean age = 15.21; SD = .63) who completed the 
+      EQ and the alcohol consumption questionnaire AIS-UJI. RESULTS: Confirmatory
+      factor analysis indicated that an eight-factor model, grouped into two general
+      factors of positive and negative expectancies, had acceptable fit indices.
+      Cronbach's alphas ranged from .75 to .96. Finally, the structural equation model 
+      showed that positive expectancies were positively related to alcohol use, whereas
+      negative expectancies were negatively related to drinking. CONCLUSIONS: Results
+      showed that the Spanish version of the EQ for adolescents is a valid and reliable
+      questionnaire to measure expectancies about alcohol effects.
+FAU - Camacho, Laura
+AU  - Camacho L
+AD  - Universitat Jaume I.
+FAU - Mezquita, Laura
+AU  - Mezquita L
+FAU - Ibanez, Manuel Ignacio
+AU  - Ibanez MI
+FAU - Moya, Jorge
+AU  - Moya J
+FAU - Villa, Helena
+AU  - Villa H
+FAU - Viruela, Ana Maria
+AU  - Viruela AM
+FAU - Ortet, Generos
+AU  - Ortet G
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Spain
+TA  - Psicothema
+JT  - Psicothema
+JID - 101189384
+SB  - IM
+MH  - Adolescent
+MH  - *Adolescent Behavior
+MH  - Alcohol Drinking/*psychology
+MH  - *Anticipation, Psychological
+MH  - Attitude
+MH  - Culture
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Models, Psychological
+MH  - *Psychology, Adolescent
+MH  - Psychometrics
+MH  - Reproducibility of Results
+MH  - Spain
+MH  - *Surveys and Questionnaires
+MH  - Translating
+EDAT- 2013/10/16 06:00
+MHDA- 2014/08/08 06:00
+CRDT- 2013/10/16 06:00
+PHST- 2013/10/16 06:00 [entrez]
+PHST- 2013/10/16 06:00 [pubmed]
+PHST- 2014/08/08 06:00 [medline]
+AID - 4148 [pii]
+AID - 10.7334/psicothema2012.354 [doi]
+PST - ppublish
+SO  - Psicothema. 2013;25(4):529-35. doi: 10.7334/psicothema2012.354.
+
+PMID- 23899309
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20140127
+LR  - 20130816
+IS  - 1523-7052 (Electronic)
+IS  - 1523-7052 (Linking)
+VI  - 15
+IP  - 16
+DP  - 2013 Aug 16
+TI  - Efficient light harvesters based on the 10-(1,3-dithiol-2-ylidene)anthracene
+      core.
+PG  - 4166-9
+LID - 10.1021/ol401841u [doi]
+AB  - Three new push-pull chromophores based on the
+      10-(1,3-dithiol-2-ylidene)anthracene core were synthesized and fully
+      characterized. The new chromophores display broad absorption spectra, nearly
+      covering the whole visible region, with high extinction coefficients.
+      Electrochemistry and theoretical calculations allowed the understanding of these 
+      singular electronic properties. The molecular structures were unambiguously
+      confirmed by X-ray diffraction.
+FAU - Bouit, Pierre-Antoine
+AU  - Bouit PA
+AD  - IMDEA-Nanociencia, Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain.
+FAU - Infantes, Lourdes
+AU  - Infantes L
+FAU - Calbo, Joaquin
+AU  - Calbo J
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Delgado, Juan Luis
+AU  - Delgado JL
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+DEP - 20130730
+PL  - United States
+TA  - Org Lett
+JT  - Organic letters
+JID - 100890393
+EDAT- 2013/08/01 06:00
+MHDA- 2013/08/01 06:01
+CRDT- 2013/08/01 06:00
+PHST- 2013/08/01 06:00 [entrez]
+PHST- 2013/08/01 06:00 [pubmed]
+PHST- 2013/08/01 06:01 [medline]
+AID - 10.1021/ol401841u [doi]
+PST - ppublish
+SO  - Org Lett. 2013 Aug 16;15(16):4166-9. doi: 10.1021/ol401841u. Epub 2013 Jul 30.
+
+PMID- 23241904
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130610
+LR  - 20131121
+IS  - 1477-0539 (Electronic)
+IS  - 1477-0520 (Linking)
+VI  - 11
+IP  - 5
+DP  - 2013 Feb 7
+TI  - A bis(triazole)benzamide receptor for the complexation of halide anions and
+      neutral carboxylic acid guests. Guest-controlled topicity and self-assembly.
+PG  - 765-72
+LID - 10.1039/c2ob26797g [doi]
+AB  - Bis(triazole)benzamide 1 has been readily synthesized by means of Cu-catalyzed
+      1,3-dipolar cycloaddition and its ability to bind halide anions and neutral
+      gallic acid derivative 12GA has been theoretically and experimentally
+      investigated. The cavity defined by the N-H amide group and the vicinal aromatic 
+      hydrogens is suitable to form H-bonding arrays with halide guests. The stability 
+      of complexes 1.Cl(-) and 1.Br(-) is very similar, as DFT calculations predict and
+      (1)H NMR titration experiments confirm. The zigzag "anti" conformation of the
+      molecule generates two regions with complementary positive and negative
+      potentials that favor the statistical complexation of two molecules of the
+      neutral carboxylic acid 12GA. This guest-controlled topicity demonstrates the
+      versatility of this class of receptor to bind species of different nature. The
+      amide group determines the complexation of both anionic and neutral species by
+      primary acid-base interactions.
+FAU - Garcia, Fatima
+AU  - Garcia F
+AD  - Departamento de Quimica Organica, Facultad de Ciencias Quimicas, Ciudad
+      Universitaria s/n, 28040 Madrid, Spain.
+FAU - Arago, Juan
+AU  - Arago J
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Sanchez, Luis
+AU  - Sanchez L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121217
+PL  - England
+TA  - Org Biomol Chem
+JT  - Organic & biomolecular chemistry
+JID - 101154995
+RN  - 0 (Anions)
+RN  - 0 (Benzamides)
+RN  - 0 (Carboxylic Acids)
+RN  - 0 (Triazoles)
+RN  - 4R7X1O2820 (Chlorine)
+RN  - 6X80438640 (benzamide)
+RN  - SBV4XY874G (Bromine)
+SB  - IM
+MH  - Anions/chemistry
+MH  - Benzamides/*chemistry
+MH  - Bromine/*chemistry
+MH  - Carboxylic Acids/*chemistry
+MH  - Chlorine/*chemistry
+MH  - Models, Molecular
+MH  - Triazoles/*chemistry
+EDAT- 2012/12/18 06:00
+MHDA- 2013/06/12 06:00
+CRDT- 2012/12/18 06:00
+PHST- 2012/12/18 06:00 [entrez]
+PHST- 2012/12/18 06:00 [pubmed]
+PHST- 2013/06/12 06:00 [medline]
+AID - 10.1039/c2ob26797g [doi]
+PST - ppublish
+SO  - Org Biomol Chem. 2013 Feb 7;11(5):765-72. doi: 10.1039/c2ob26797g. Epub 2012 Dec 
+      17.
+
+PMID- 23130682
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20130617
+LR  - 20121211
+IS  - 1520-6904 (Electronic)
+IS  - 0022-3263 (Linking)
+VI  - 77
+IP  - 23
+DP  - 2012 Dec 7
+TI  - Tuning the electronic properties of nonplanar exTTF-based push-pull chromophores 
+      by aryl substitution.
+PG  - 10707-17
+LID - 10.1021/jo302047m [doi]
+AB  - A new family of pi-extended tetrathiafulvalene (exTTF) donor-acceptor
+      chromophores has been synthesized by [2 + 2] cycloaddition of TCNE with
+      exTTF-substituted alkynes and subsequent cycloreversion. X-ray data and
+      theoretical calculations, performed at the B3LYP/6-31G** level, show that the new
+      chromophores exhibit highly distorted nonplanar molecular structures with largely
+      twisted 1,1,4,4-tetracyanobuta-1,3-diene (TCBD) units. The electronic and optical
+      properties, investigated by UV/vis spectroscopy and electrochemical measurements,
+      are significantly modified when the TCBD acceptor unit is substituted with a
+      donor phenyl group, which increases the twisting of the TCBD units and reduces
+      the conjugation between the two dicyanovinyl subunits. The introduction of phenyl
+      substituents hampers the oxidation and reduction processes and, at the same time,
+      largely increases the optical band gap. An effective electronic communication
+      between the donor and acceptor units, although limited by the distorted molecular
+      geometry, is evidenced both in the ground and in the excited electronic states.
+      The electronic absorption spectra are characterized by low- to medium-intense
+      charge-transfer bands that extend to the near-infrared.
+FAU - Garcia, Raul
+AU  - Garcia R
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense de
+      Madrid, 28040 Madrid, Spain.
+FAU - Herranz, Ma Angeles
+AU  - Herranz MA
+FAU - Torres, Ma Rosario
+AU  - Torres MR
+FAU - Bouit, Pierre-Antoine
+AU  - Bouit PA
+FAU - Delgado, Juan Luis
+AU  - Delgado JL
+FAU - Calbo, Joaquin
+AU  - Calbo J
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+DEP - 20121119
+PL  - United States
+TA  - J Org Chem
+JT  - The Journal of organic chemistry
+JID - 2985193R
+EDAT- 2012/11/08 06:00
+MHDA- 2012/11/08 06:01
+CRDT- 2012/11/08 06:00
+PHST- 2012/11/08 06:00 [entrez]
+PHST- 2012/11/08 06:00 [pubmed]
+PHST- 2012/11/08 06:01 [medline]
+AID - 10.1021/jo302047m [doi]
+PST - ppublish
+SO  - J Org Chem. 2012 Dec 7;77(23):10707-17. doi: 10.1021/jo302047m. Epub 2012 Nov 19.
+
+PMID- 22865694
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20130108
+LR  - 20120831
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 18
+IP  - 37
+DP  - 2012 Sep 10
+TI  - Donor-pi-acceptors containing the 10-(1,3-dithiol-2-ylidene)anthracene unit for
+      dye-sensitized solar cells.
+PG  - 11621-9
+LID - 10.1002/chem.201201022 [doi]
+AB  - Two donor-acceptor molecular tweezers incorporating the
+      10-(1,3-dithiol-2-ylidene)anthracene unit as donor group and two cyanoacrylic
+      units as accepting/anchoring groups are reported as metal-free sensitizers for
+      dye-sensitized solar cells. By changing the phenyl spacer with
+      3,4-ethylenedioxythiophene (EDOT) units, the absorption spectrum of the
+      sensitizer is red-shifted with a corresponding increase in the molar
+      absorptivity. Density functional calculations confirmed the intramolecular
+      charge-transfer nature of the lowest-energy absorption bands. The new dyes are
+      highly distorted from planarity and are bound to the TiO(2) surface through the
+      two anchoring groups in a unidentate binding form. A power-conversion efficiency 
+      of 3.7% was obtained with a volatile CH(3)CN-based electrolyte, under air mass
+      1.5 global sunlight. Photovoltage decay transients and ATR-FTIR measurements
+      allowed us to understand the photovoltaic performance, as well as the surface
+      binding, of these new sensitizers.
+CI  - Copyright (c) 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Bouit, Pierre-Antoine
+AU  - Bouit PA
+AD  - IMDEA-Nanociencia, Facultad de Ciencias, Ciudad Universitaria de Cantoblanco,
+      28049 Madrid, Spain.
+FAU - Marszalek, Magdalena
+AU  - Marszalek M
+FAU - Humphry-Baker, Robin
+AU  - Humphry-Baker R
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Zakeeruddin, Shaik M
+AU  - Zakeeruddin SM
+FAU - Gratzel, Michael
+AU  - Gratzel M
+FAU - Delgado, Juan Luis
+AU  - Delgado JL
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+DEP - 20120802
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2012/08/07 06:00
+MHDA- 2012/08/07 06:01
+CRDT- 2012/08/07 06:00
+PHST- 2012/03/26 00:00 [received]
+PHST- 2012/08/07 06:00 [entrez]
+PHST- 2012/08/07 06:00 [pubmed]
+PHST- 2012/08/07 06:01 [medline]
+AID - 10.1002/chem.201201022 [doi]
+PST - ppublish
+SO  - Chemistry. 2012 Sep 10;18(37):11621-9. doi: 10.1002/chem.201201022. Epub 2012 Aug
+      2.
+
+PMID- 22191898
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20120425
+LR  - 20111223
+IS  - 1089-7690 (Electronic)
+IS  - 0021-9606 (Linking)
+VI  - 135
+IP  - 23
+DP  - 2011 Dec 21
+TI  - Diferrocenyl oligothiophene wires: Raman and quantum chemical study of
+      valence-trapped cations.
+PG  - 234705
+LID - 10.1063/1.3669653 [doi]
+AB  - A combination of Raman spectroscopy and density functional theory calculations is
+      used to describe the structural and spectroscopic properties of the different
+      isomeric cations of diferrocenyl quaterthiophenes. Isomerisation of the thienyl
+      beta-positions provides site selective oxidation, which gives rise to species
+      that can interconvert by moving the charge over the bridge. The spectroscopic
+      study allows us to describe a sequence of stationary trapped cationic, either
+      ferrocenyl or thienyl, states which constitutes an energy cascade of accessible
+      sites through which the charge transfer can proceed.
+FAU - Rodriguez Gonzalez, Sandra
+AU  - Rodriguez Gonzalez S
+AD  - Department of Physical Chemistry, University of Malaga, Campus de Teatinos s/n,
+      29071 Malaga, Spain.
+FAU - Arago, Juan
+AU  - Arago J
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+FAU - Sato, Masa-aki
+AU  - Sato MA
+FAU - Casado, Juan
+AU  - Casado J
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Chem Phys
+JT  - The Journal of chemical physics
+JID - 0375360
+EDAT- 2011/12/24 06:00
+MHDA- 2011/12/24 06:01
+CRDT- 2011/12/24 06:00
+PHST- 2011/12/24 06:00 [entrez]
+PHST- 2011/12/24 06:00 [pubmed]
+PHST- 2011/12/24 06:01 [medline]
+AID - 10.1063/1.3669653 [doi]
+PST - ppublish
+SO  - J Chem Phys. 2011 Dec 21;135(23):234705. doi: 10.1063/1.3669653.
+
+PMID- 22135109
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20120423
+LR  - 20120109
+IS  - 1439-7641 (Electronic)
+IS  - 1439-4235 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2012 Jan 16
+TI  - Carbonyl-functionalized quaterthiophenes: a study of the vibrational Raman and
+      electronic absorption/emission properties guided by theoretical calculations.
+PG  - 168-76
+LID - 10.1002/cphc.201100736 [doi]
+AB  - This work investigates the evolution of the molecular, vibrational, and optical
+      properties within a family of carbonyl-functionalized quaterthiophenes:
+      5,5'''-diheptanoyl-2,2':5',2'':5'',2'''-quaterthiophene (1),
+      5,5'''-diperfluorohexylcarbonyl-2,2':5',2'':5'',2'''-quaterthiophene (2), and
+      2,7-[bis(5-perfluorohexylcarbonylthien-2-yl)]-4H-cyclopenta[2,1-b:3,4-b']-dithiop
+      hene-4-one (3). The analysis is performed by Raman and UV/Vis
+      absorption/excitation/fluorescence spectroscopy in combination with density
+      functional calculations. Theoretical calculations show that substitution with
+      carbonyl groups and perfluorohexyl chains induces progressive quinoidization of
+      the pi-conjugated backbone in comparison to the carbonyl-free compound
+      5,5'''-dimethyl-2,2':5',2'':5'',2'''-quaterthiophene (DM-4T) used as reference.
+      Raman spectra are dominated by a strong Raman line which mainly corresponds to a 
+      combination of C-C/C=C stretching vibrations spreading over the whole thiophene
+      core. This band undergoes a remarkable downshift as a consequence of the
+      structural changes induced by the electron-withdrawing groups on the
+      pi-conjugated backbone. The band splitting on incorporation of a central carbonyl
+      bridge evidences the formation of two structural domains in the molecule. The
+      excitation and fluorescence spectra recorded at low temperature show
+      well-resolved vibronic structures associated with the most intense collective
+      C-C/C=C stretching mode. Optical absorption and fluorescence bands exhibit
+      remarkable bathochromic dispersion on carbonyl functionalization, indicative of
+      extension of pi conjugation. TDDFT calculations enable a detailed description of 
+      the trends observed in the absorption spectra. Resonance Raman spectra reflect
+      the structural changes predicted for the S(0)-->S(1) electronic transition and
+      evidence the cross-conjugated character that the central carbonyl group confers
+      on 3.
+CI  - Copyright (c) 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Arago, Juan
+AU  - Arago J
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, 46980 Valencia, Spain.
+FAU - Ponce Ortiz, Rocio
+AU  - Ponce Ortiz R
+FAU - Nieto-Ortega, Belen
+AU  - Nieto-Ortega B
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Casado, Juan
+AU  - Casado J
+FAU - Facchetti, Antonio
+AU  - Facchetti A
+FAU - Marks, Tobin J
+AU  - Marks TJ
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+LA  - eng
+PT  - Journal Article
+DEP - 20111201
+PL  - Germany
+TA  - Chemphyschem
+JT  - Chemphyschem : a European journal of chemical physics and physical chemistry
+JID - 100954211
+EDAT- 2011/12/03 06:00
+MHDA- 2011/12/03 06:01
+CRDT- 2011/12/03 06:00
+PHST- 2011/09/22 00:00 [received]
+PHST- 2011/12/03 06:00 [entrez]
+PHST- 2011/12/03 06:00 [pubmed]
+PHST- 2011/12/03 06:01 [medline]
+AID - 10.1002/cphc.201100736 [doi]
+PST - ppublish
+SO  - Chemphyschem. 2012 Jan 16;13(1):168-76. doi: 10.1002/cphc.201100736. Epub 2011
+      Dec 1.
+
+PMID- 21622482
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120626
+LR  - 20191210
+IS  - 1552-3489 (Electronic)
+IS  - 1073-1911 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2012 Mar
+TI  - Assessing the five factors of personality in adolescents: the junior version of
+      the Spanish NEO-PI-R.
+PG  - 114-30
+LID - 10.1177/1073191111410166 [doi]
+AB  - This article presents the development of a junior version of the Spanish
+      (Castilian) NEO Personality Inventory-Revised (JS NEO) suitable for adolescents
+      aged 12 to 18 years. The psychometric properties of the new JS NEO were
+      investigated using two samples of 2,733 and 983 adolescents in Spain. The results
+      showed that the adult NEO-PI-R factor structure was replicated with the junior
+      version of the inventory and that the reliabilities of the scales were adequate. 
+      The cross-form correlations between the junior and the adult versions of the
+      questionnaires indicated good equivalence indices. Furthermore, a joint factor
+      analysis of the JS NEO and the Big Five Questionnaire-Children (BFQ-C) provided
+      additional evidence for the construct validity of the JS NEO.
+FAU - Ortet, Generos
+AU  - Ortet G
+AD  - Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume 
+      I, Castello, Spain. ortet@psb.uji.es
+FAU - Ibanez, Manuel I
+AU  - Ibanez MI
+FAU - Moya, Jorge
+AU  - Moya J
+FAU - Villa, Helena
+AU  - Villa H
+FAU - Viruela, Ana
+AU  - Viruela A
+FAU - Mezquita, Laura
+AU  - Mezquita L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
+DEP - 20110526
+PL  - United States
+TA  - Assessment
+JT  - Assessment
+JID - 9431219
+SB  - IM
+MH  - Adolescent
+MH  - Age Factors
+MH  - Child
+MH  - Emotions
+MH  - Factor Analysis, Statistical
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Models, Psychological
+MH  - Personality
+MH  - Personality Disorders/*diagnosis/psychology
+MH  - *Personality Tests
+MH  - Pilot Projects
+MH  - Psychology, Adolescent/instrumentation/*methods
+MH  - Psychometrics
+MH  - Reproducibility of Results
+MH  - Self Report
+MH  - Spain
+MH  - Statistics as Topic
+MH  - Surveys and Questionnaires
+EDAT- 2011/05/31 06:00
+MHDA- 2012/06/27 06:00
+CRDT- 2011/05/31 06:00
+PHST- 2011/05/31 06:00 [entrez]
+PHST- 2011/05/31 06:00 [pubmed]
+PHST- 2012/06/27 06:00 [medline]
+AID - 1073191111410166 [pii]
+AID - 10.1177/1073191111410166 [doi]
+PST - ppublish
+SO  - Assessment. 2012 Mar;19(1):114-30. doi: 10.1177/1073191111410166. Epub 2011 May
+      26.
+
+PMID- 21618637
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111003
+LR  - 20110622
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 17
+IP  - 28
+DP  - 2011 Jul 4
+TI  - Cooperative supramolecular polymerization and amplification of chirality in
+      C3-symmetrical OPE-based trisamides.
+PG  - 7755-9
+LID - 10.1002/chem.201100898 [doi]
+FAU - Garcia, Fatima
+AU  - Garcia F
+AD  - Departamento de Quimica Organica, Facultad de Ciencias Quimicas, Ciudad
+      Universitaria s/n. 28040 Madrid, Spain.
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Matesanz, Emilio
+AU  - Matesanz E
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Sanchez, Luis
+AU  - Sanchez L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110526
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+RN  - 0 (Amides)
+SB  - IM
+MH  - Amides/*chemistry
+MH  - Models, Molecular
+MH  - Molecular Structure
+MH  - *Polymerization
+MH  - Stereoisomerism
+EDAT- 2011/05/28 06:00
+MHDA- 2011/10/04 06:00
+CRDT- 2011/05/28 06:00
+PHST- 2011/03/23 00:00 [received]
+PHST- 2011/05/28 06:00 [entrez]
+PHST- 2011/05/28 06:00 [pubmed]
+PHST- 2011/10/04 06:00 [medline]
+AID - 10.1002/chem.201100898 [doi]
+PST - ppublish
+SO  - Chemistry. 2011 Jul 4;17(28):7755-9. doi: 10.1002/chem.201100898. Epub 2011 May
+      26.
+
+PMID- 21294199
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20110413
+LR  - 20110223
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 17
+IP  - 10
+DP  - 2011 Mar 1
+TI  - A fully conjugated TTF-pi-TCAQ system: synthesis, structure, and electronic
+      properties.
+PG  - 2957-64
+LID - 10.1002/chem.201002674 [doi]
+AB  - The synthesis of the first fully conjugated
+      tetrathiafulvalene-tetracyano-p-quinodimethane ((TTF)-TCNQ)-type system has been 
+      carried out by means of a Julia-Kocienski olefination reaction. In particular, a 
+      tetracyanoanthraquinodimethane (TCAQ) formyl derivative and two new
+      sulfonylmethyl-exTTFs (exTTF =
+      2-[9-(1,3-dithiol-2-ylidene)anthracen-10(9H)-ylidene]-1,3-dithiole)--prepared as 
+      new building blocks--were linked. A variety of experimental conditions reveal
+      that the use of sodium hexamethyldisilazane (NaHMDS) as base in THF afforded the 
+      E olefins with excellent stereoselectivity. Theoretical calculations at the
+      B3LYP/6-31G** level point to highly distorted exTTF and TCAQ that form an almost 
+      planar stilbene unit between them. Although calculations predicted appreciable
+      electronic communication between the donor and the acceptor, cyclic voltammetric 
+      studies did not substantiate this effect. It was only in photophysical assays
+      that the electronic communication emerged in the form of a charge-transfer (CT)
+      absorption and emission. Once photoexcited (i.e., the locally excited state or
+      excited charge-transfer state), an ultrafast, subpicosecond charge separation
+      leads to a radical ion pair state in which the spectroscopic features of the
+      radical cation of exTTF as well as the radical anion of TCAQ are discernable. The
+      radical ion pair is metastable and undergoes a fast ((1.0+/-0.2) ps) charge
+      recombination to reconstitute the electronic ground state. Such ultrafast charge 
+      separation and recombination processes come as a consequence of the very short
+      vinyl linkage between the two electroactive units.
+CI  - Copyright (c) 2011 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Santos, Jose
+AU  - Santos J
+AD  - Departamento de Quimica Organica, Facultad de Ciencias Quimicas, Universidad
+      Complutense, Ciudad Universitaria, 28040 Madrid, Spain.
+FAU - Illescas, Beatriz M
+AU  - Illescas BM
+FAU - Martin, Nazario
+AU  - Martin N
+FAU - Adrio, Javier
+AU  - Adrio J
+FAU - Carretero, Juan C
+AU  - Carretero JC
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Spanig, Fabian
+AU  - Spanig F
+FAU - Guldi, Dirk M
+AU  - Guldi DM
+LA  - eng
+PT  - Journal Article
+DEP - 20110203
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2011/02/05 06:00
+MHDA- 2011/02/05 06:01
+CRDT- 2011/02/05 06:00
+PHST- 2010/09/17 00:00 [received]
+PHST- 2011/02/05 06:00 [entrez]
+PHST- 2011/02/05 06:00 [pubmed]
+PHST- 2011/02/05 06:01 [medline]
+AID - 10.1002/chem.201002674 [doi]
+PST - ppublish
+SO  - Chemistry. 2011 Mar 1;17(10):2957-64. doi: 10.1002/chem.201002674. Epub 2011 Feb 
+      3.
+
+PMID- 21214258
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20110328
+LR  - 20110214
+IS  - 1523-7052 (Electronic)
+IS  - 1523-7052 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2011 Feb 18
+TI  - ExTTF-based dyes absorbing over the whole visible spectrum.
+PG  - 604-7
+LID - 10.1021/ol102845m [doi]
+AB  - New push-pull dyes featuring pi-extended tetrathiafulvalene (exTTF) as the donor 
+      group and tricyanofuran (TCF) as the acceptor group were synthesized and
+      characterized. Their broad absorption covers the entire visible spectral range
+      and enters the near-infrared region. Electrochemistry and theoretical
+      calculations provided an understanding of these singular electronic properties.
+      The new dyes are appealing candidates as light harvesters in photovoltaic
+      devices.
+FAU - Bouit, Pierre-Antoine
+AU  - Bouit PA
+AD  - IMDEA-Nanociencia, Facultad de Ciencias, Modulo C-IX, 3a planta, Ciudad
+      Universitaria de Cantoblanco, 28049 Madrid, Spain.
+FAU - Villegas, Carmen
+AU  - Villegas C
+FAU - Delgado, Juan Luis
+AU  - Delgado JL
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Pou-Amerigo, Rosendo
+AU  - Pou-Amerigo R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+DEP - 20110107
+PL  - United States
+TA  - Org Lett
+JT  - Organic letters
+JID - 100890393
+EDAT- 2011/01/11 06:00
+MHDA- 2011/01/11 06:01
+CRDT- 2011/01/11 06:00
+PHST- 2011/01/11 06:00 [entrez]
+PHST- 2011/01/11 06:00 [pubmed]
+PHST- 2011/01/11 06:01 [medline]
+AID - 10.1021/ol102845m [doi]
+PST - ppublish
+SO  - Org Lett. 2011 Feb 18;13(4):604-7. doi: 10.1021/ol102845m. Epub 2011 Jan 7.
+
+PMID- 21152513
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20110429
+LR  - 20110110
+IS  - 1463-9084 (Electronic)
+IS  - 1463-9076 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2011 Jan 28
+TI  - Oligothienoacenes versus oligothiophenes: impact of ring fusion on the optical
+      properties.
+PG  - 1457-65
+LID - 10.1039/c0cp00410c [doi]
+AB  - The impact of backbone rigidity on the optical properties of thiophene-based
+      compounds is studied by analyzing in detail the geometrical, electronic, optical 
+      and vibronic features of a family of oligothienoacenes (nTAs) in comparison to
+      non-fused alpha-oligothiophenes (nTs) by means of quantum-chemical calculations. 
+      Ring fusion in nTAs provokes a greater conjugation in the ground state. However, 
+      the change in the bond length alternation upon electronic excitation is very
+      similar in both systems, which is also reflected in a similar evolution of the
+      first optical transition energy with increasing oligomer size. Larger transition 
+      energies in nTAsvs.nTs arise from an electronic effect rather than from a
+      structural one. nTAs present a normal mode predicted at ca. 500 cm(-1) which
+      displays significantly higher Franck-Condon activity compared to nTs and which
+      leads to pronounced differences in the optical spectra. Due to the rigid
+      structure of nTAs, persistent mirror symmetry of absorption and emission is
+      observed, very different to nTs.
+FAU - Arago, Juan
+AU  - Arago J
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, Valencia 46980, Spain.
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Gierschner, Johannes
+AU  - Gierschner J
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Milian-Medina, Begona
+AU  - Milian-Medina B
+LA  - eng
+PT  - Journal Article
+DEP - 20101209
+PL  - England
+TA  - Phys Chem Chem Phys
+JT  - Physical chemistry chemical physics : PCCP
+JID - 100888160
+EDAT- 2010/12/15 06:00
+MHDA- 2010/12/15 06:01
+CRDT- 2010/12/15 06:00
+PHST- 2010/12/15 06:00 [entrez]
+PHST- 2010/12/15 06:00 [pubmed]
+PHST- 2010/12/15 06:01 [medline]
+AID - 10.1039/c0cp00410c [doi]
+PST - ppublish
+SO  - Phys Chem Chem Phys. 2011 Jan 28;13(4):1457-65. doi: 10.1039/c0cp00410c. Epub
+      2010 Dec 9.
+
+PMID- 20358556
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20100818
+LR  - 20100614
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 16
+IP  - 18
+DP  - 2010 May 10
+TI  - Neutral and oxidized triisopropylsilyl end-capped oligothienoacenes: a combined
+      electrochemical, spectroscopic, and theoretical study.
+PG  - 5481-91
+LID - 10.1002/chem.200903343 [doi]
+AB  - This work presents an analysis of the structural, electrochemical, and optical
+      properties of a family of triisopropylsilyl end-capped oligothienoacenes
+      (TIPS-Tn-TIPS, n=4-8) by combining cyclic voltammetry, spectroscopic techniques, 
+      and quantum-chemical calculations. TIPS-Tn-TIPS compounds form stable radical
+      cations, and dications are only obtained for the longest oligomers (n=7 and 8).
+      Oxidation leads to the quinoidization of the conjugated backbone, from which
+      electrons are mainly extracted. The absorption and fluorescence spectra show
+      partially resolved vibronic structures even at room temperature, due to the rigid
+      molecular geometry. Two well-resolved vibronic progressions are observed at low
+      temperatures due to the vibronic coupling, with normal modes showing wavenumbers 
+      of approximately 1525 and approximately 480 cm(-1). Optical absorption bands
+      display remarkable bathochromic dispersion with the oligomer length, indicative
+      of the extent of pi conjugation. The optical properties of the oxidized compounds
+      are characterized by in situ UV/Vis/NIR spectroelectrochemistry. The radical
+      cation species show two intense absorption bands emerging at energies lower than 
+      in the neutral compounds. The formation of the dication is only detected for the 
+      heptamer and the octamer, and shows a new band at intermediate energies. Optical 
+      data are interpreted with the help of density functional theory calculations
+      performed at the B3LYP/6-31G** level, both for the neutral and the oxidized
+      compounds.
+FAU - Arago, Juan
+AU  - Arago J
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, Valencia 46980, Spain.
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Malave Osuna, Reyes
+AU  - Malave Osuna R
+FAU - Vercelli, Barbara
+AU  - Vercelli B
+FAU - Zotti, Gianni
+AU  - Zotti G
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+FAU - Henssler, John T
+AU  - Henssler JT
+FAU - Matzger, Adam J
+AU  - Matzger AJ
+FAU - Suzuki, Yoshitake
+AU  - Suzuki Y
+FAU - Yamaguchi, Shigehiro
+AU  - Yamaguchi S
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2010/04/02 06:00
+MHDA- 2010/04/02 06:01
+CRDT- 2010/04/02 06:00
+PHST- 2010/04/02 06:00 [entrez]
+PHST- 2010/04/02 06:00 [pubmed]
+PHST- 2010/04/02 06:01 [medline]
+AID - 10.1002/chem.200903343 [doi]
+PST - ppublish
+SO  - Chemistry. 2010 May 10;16(18):5481-91. doi: 10.1002/chem.200903343.
+
+PMID- 20088584
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20100429
+LR  - 20100210
+IS  - 1520-5126 (Electronic)
+IS  - 0002-7863 (Linking)
+VI  - 132
+IP  - 6
+DP  - 2010 Feb 17
+TI  - A bis-exTTF macrocyclic receptor that associates C60 with micromolar affinity.
+PG  - 1772-3
+LID - 10.1021/ja910107m [doi]
+AB  - An exTTF-based macrocyclic receptor that associates C(60) with a binding constant
+      >10(6) M(-1) in chlorobenzene at room temperature is described. This represents
+      an improvement of 3 orders of magnitude with respect to the previous examples of 
+      exTTF-based receptors and one of the highest binding constants toward C(60)
+      reported to date.
+FAU - Isla, Helena
+AU  - Isla H
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense,
+      28040 Madrid, Spain.
+FAU - Gallego, Maria
+AU  - Gallego M
+FAU - Perez, Emilio M
+AU  - Perez EM
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Chem Soc
+JT  - Journal of the American Chemical Society
+JID - 7503056
+EDAT- 2010/01/22 06:00
+MHDA- 2010/01/22 06:01
+CRDT- 2010/01/22 06:00
+PHST- 2010/01/22 06:00 [entrez]
+PHST- 2010/01/22 06:00 [pubmed]
+PHST- 2010/01/22 06:01 [medline]
+AID - 10.1021/ja910107m [doi]
+PST - ppublish
+SO  - J Am Chem Soc. 2010 Feb 17;132(6):1772-3. doi: 10.1021/ja910107m.
+
+PMID- 19938009
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20100225
+LR  - 20100104
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 16
+IP  - 2
+DP  - 2010 Jan 11
+TI  - Quinoidal oligothiophenes: towards biradical ground-state species.
+PG  - 470-84
+LID - 10.1002/chem.200902037 [doi]
+AB  - A family of quinoidal oligothiophenes, from the dimer to the hexamer, with fused 
+      bis(butoxymethyl)cyclopentane groups has been extensively investigated by means
+      of electronic and vibrational spectroscopy, electrochemical measurements, and
+      density functional calculations. The latter predict that the electronic ground
+      state always corresponds to a singlet state and that, for the longest oligomers, 
+      this state has biradical character that increases with increasing oligomer
+      length. The shortest oligomers display closed-shell quinoidal structures.
+      Calculations also predict the existence of very low energy excited triplet states
+      that can be populated at room temperature. Aromatization of the conjugated carbon
+      backbone is the driving force that determines the increasing biradical character 
+      of the ground state and the appearance of low-lying triplet states. UV/Vis,
+      Raman, IR, and electrochemical experiments support the aromatic biradical
+      structures predicted for the ground state of the longest oligomers and reveal
+      that population of the low-lying triplet state accounts for the magnetic activity
+      displayed by these compounds.
+FAU - Ponce Ortiz, Rocio
+AU  - Ponce Ortiz R
+AD  - Departamento de Quimica Fisica, Universidad de Malaga, Campus de Teatinos s/n,
+      Malaga 29071, Spain.
+FAU - Casado, Juan
+AU  - Casado J
+FAU - Rodriguez Gonzalez, Sandra
+AU  - Rodriguez Gonzalez S
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Takimiya, Kazuo
+AU  - Takimiya K
+FAU - Otsubo, Tetsuo
+AU  - Otsubo T
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2009/11/26 06:00
+MHDA- 2009/11/26 06:01
+CRDT- 2009/11/26 06:00
+PHST- 2009/11/26 06:00 [entrez]
+PHST- 2009/11/26 06:00 [pubmed]
+PHST- 2009/11/26 06:01 [medline]
+AID - 10.1002/chem.200902037 [doi]
+PST - ppublish
+SO  - Chemistry. 2010 Jan 11;16(2):470-84. doi: 10.1002/chem.200902037.
+
+PMID- 19810080
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20100202
+LR  - 20091207
+IS  - 1439-7641 (Electronic)
+IS  - 1439-4235 (Linking)
+VI  - 10
+IP  - 17
+DP  - 2009 Dec 7
+TI  - FT Raman and DFT study on a series of all-anti oligothienoacenes end-capped with 
+      triisopropylsilyl groups.
+PG  - 3069-76
+LID - 10.1002/cphc.200900440 [doi]
+AB  - Herein, we study the pi-conjugational properties of a homologous series of
+      all-anti oligothienoacenes containing four to eight fused thiophene rings by
+      means of FT Raman spectroscopy and DFT calculations. The theoretical analysis of 
+      the spectroscopic data provides evidence that selective enhancement of a very
+      limited number of Raman scatterings is related to the occurrence in these
+      oligothienoacenes of strong vibronic coupling between collective nu(C=C)
+      stretching modes in the 1600-1300 cm(-1) region and the HOMO/LUMO frontier
+      orbitals (HOMO=highest occupied molecular orbital; LUMO=lowest unoccupied
+      molecular orbital). The correlation of the Raman spectroscopic data and
+      theoretical results for these all-anti oligothienoacenes with those previously
+      collected for a number of all-syn oligothienohelicenes gives further support to
+      the expectation that cross-conjugation is dominant in heterohelicenes. Fully
+      planar all-anti oligothienoacenes display linear pi conjugation which seemingly
+      does not reach saturation with increasing number of annulated thiophene rings in 
+      the oligomeric chain at least up to the octamer.
+FAU - Malave Osuna, Reyes
+AU  - Malave Osuna R
+AD  - Department of Physical Chemistry, University of Malaga, 29071 Malaga, Spain.
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+FAU - Arago, Juan
+AU  - Arago J
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Suzuki, Yoshitake
+AU  - Suzuki Y
+FAU - Yamaguchi, Shigehiro
+AU  - Yamaguchi S
+FAU - Henssler, John T
+AU  - Henssler JT
+FAU - Matzger, Adam J
+AU  - Matzger AJ
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemphyschem
+JT  - Chemphyschem : a European journal of chemical physics and physical chemistry
+JID - 100954211
+EDAT- 2009/10/08 06:00
+MHDA- 2009/10/08 06:01
+CRDT- 2009/10/08 06:00
+PHST- 2009/10/08 06:00 [entrez]
+PHST- 2009/10/08 06:00 [pubmed]
+PHST- 2009/10/08 06:01 [medline]
+AID - 10.1002/cphc.200900440 [doi]
+PST - ppublish
+SO  - Chemphyschem. 2009 Dec 7;10(17):3069-76. doi: 10.1002/cphc.200900440.
+
+PMID- 19754141
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20091222
+LR  - 20091008
+IS  - 1523-7052 (Electronic)
+IS  - 1523-7052 (Linking)
+VI  - 11
+IP  - 20
+DP  - 2009 Oct 15
+TI  - Controlled self-assembly of electron donor nanotubes.
+PG  - 4524-7
+LID - 10.1021/ol901695m [doi]
+AB  - We employ a combination of urea-urea hydrogen bonds and pi-pi stacking
+      interactions to obtain soluble self-assembled nanotubes decorated with
+      electron-donor TTF derivatives on the periphery. We have investigated the
+      structure and stability of the nanotubes with a combination of experiments and
+      high-level DFT calculations. We also demonstrate that the association process can
+      be controlled by changes in the hydrogen-bonding ability of the solvent and
+      electrochemically.
+FAU - Lopez, Juan Luis
+AU  - Lopez JL
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense,
+      28040 Madrid, Spain.
+FAU - Perez, Emilio M
+AU  - Perez EM
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Org Lett
+JT  - Organic letters
+JID - 100890393
+EDAT- 2009/09/17 06:00
+MHDA- 2009/09/17 06:01
+CRDT- 2009/09/17 06:00
+PHST- 2009/09/17 06:00 [entrez]
+PHST- 2009/09/17 06:00 [pubmed]
+PHST- 2009/09/17 06:01 [medline]
+AID - 10.1021/ol901695m [doi]
+PST - ppublish
+SO  - Org Lett. 2009 Oct 15;11(20):4524-7. doi: 10.1021/ol901695m.
+
+PMID- 19130452
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20090129
+LR  - 20090114
+IS  - 1521-3773 (Electronic)
+IS  - 1433-7851 (Linking)
+VI  - 48
+IP  - 4
+DP  - 2009
+TI  - Discrete supramolecular donor-acceptor complexes.
+PG  - 815-9
+LID - 10.1002/anie.200803984 [doi]
+FAU - Gayathri, S Shankara
+AU  - Gayathri SS
+AD  - Friedrich-Alexander-Universitat Erlangen-Nurnberg, Department of Chemistry and
+      Pharmacy, Erlangen, Germany.
+FAU - Wielopolski, Mateusz
+AU  - Wielopolski M
+FAU - Perez, Emilio M
+AU  - Perez EM
+FAU - Fernandez, Gustavo
+AU  - Fernandez G
+FAU - Sanchez, Luis
+AU  - Sanchez L
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Guldi, Dirk M
+AU  - Guldi DM
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+EDAT- 2009/01/09 09:00
+MHDA- 2009/01/09 09:01
+CRDT- 2009/01/09 09:00
+PHST- 2009/01/09 09:00 [entrez]
+PHST- 2009/01/09 09:00 [pubmed]
+PHST- 2009/01/09 09:01 [medline]
+AID - 10.1002/anie.200803984 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2009;48(4):815-9. doi: 10.1002/anie.200803984.
+
+PMID- 18815685
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20081124
+LR  - 20080925
+IS  - 1359-7345 (Print)
+IS  - 1359-7345 (Linking)
+IP  - 38
+DP  - 2008 Oct 14
+TI  - Weighting non-covalent forces in the molecular recognition of C(60). Relevance of
+      concave-convex complementarity.
+PG  - 4567-9
+LID - 10.1039/b810177a [doi]
+AB  - The relative contributions of several weak intermolecular forces to the overall
+      stability of the complexes formed between structurally related receptors and
+      [60]fullerene are compared, revealing a discernible contribution from
+      concave-convex complementarity.
+FAU - Perez, Emilio M
+AU  - Perez EM
+AD  - Departamento de Quimica Organica, Universidad Complutense, E-28040 Madrid, Spain.
+FAU - Capodilupo, Agostina L
+AU  - Capodilupo AL
+FAU - Fernandez, Gustavo
+AU  - Fernandez G
+FAU - Sanchez, Luis
+AU  - Sanchez L
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Bietti, Massimo
+AU  - Bietti M
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+DEP - 20080812
+PL  - England
+TA  - Chem Commun (Camb)
+JT  - Chemical communications (Cambridge, England)
+JID - 9610838
+EDAT- 2008/09/26 09:00
+MHDA- 2008/09/26 09:01
+CRDT- 2008/09/26 09:00
+PHST- 2008/09/26 09:00 [pubmed]
+PHST- 2008/09/26 09:01 [medline]
+PHST- 2008/09/26 09:00 [entrez]
+AID - 10.1039/b810177a [doi]
+PST - ppublish
+SO  - Chem Commun (Camb). 2008 Oct 14;(38):4567-9. doi: 10.1039/b810177a. Epub 2008 Aug
+      12.
+
+PMID- 17960741
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20080116
+LR  - 20071206
+IS  - 1521-3773 (Electronic)
+IS  - 1433-7851 (Linking)
+VI  - 46
+IP  - 47
+DP  - 2007
+TI  - On the biradicaloid nature of long quinoidal oligothiophenes: experimental
+      evidence guided by theoretical studies.
+PG  - 9057-61
+FAU - Ponce Ortiz, Rocio
+AU  - Ponce Ortiz R
+AD  - Department of Physical Chemistry, University of Malaga, Campus de Teatinos s/n,
+      29071-Malaga, Spain.
+FAU - Casado, Juan
+AU  - Casado J
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Takimiya, Kazuo
+AU  - Takimiya K
+FAU - Otsubo, Tetsuo
+AU  - Otsubo T
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+EDAT- 2007/10/27 09:00
+MHDA- 2007/10/27 09:01
+CRDT- 2007/10/27 09:00
+PHST- 2007/10/27 09:00 [pubmed]
+PHST- 2007/10/27 09:01 [medline]
+PHST- 2007/10/27 09:00 [entrez]
+AID - 10.1002/anie.200703244 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2007;46(47):9057-61. doi: 10.1002/anie.200703244.
+
+PMID- 17450611
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070521
+LR  - 20070423
+IS  - 1433-7851 (Print)
+IS  - 1433-7851 (Linking)
+VI  - 46
+IP  - 11
+DP  - 2007
+TI  - Concave tetrathiafulvalene-type donors as supramolecular partners for fullerenes.
+PG  - 1847-51
+FAU - Perez, Emilio M
+AU  - Perez EM
+AD  - Departamento de Quimica Organica, Facultad de C. C. Quimicas, Universidad
+      Complutense de Madrid, 28040 Madrid, Spain.
+FAU - Sierra, Maria
+AU  - Sierra M
+FAU - Sanchez, Luis
+AU  - Sanchez L
+FAU - Torres, M Rosario
+AU  - Torres MR
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Martin, Nazario
+AU  - Martin N
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+EDAT- 2007/04/24 09:00
+MHDA- 2007/04/24 09:01
+CRDT- 2007/04/24 09:00
+PHST- 2007/04/24 09:00 [pubmed]
+PHST- 2007/04/24 09:01 [medline]
+PHST- 2007/04/24 09:00 [entrez]
+AID - 10.1002/anie.200604327 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2007;46(11):1847-51. doi: 10.1002/anie.200604327.
+
+PMID- 17406718
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070912
+LR  - 20070404
+IS  - 1477-0520 (Print)
+IS  - 1477-0520 (Linking)
+VI  - 5
+IP  - 8
+DP  - 2007 Apr 21
+TI  - Synthesis and radical coupling of pyridine-bridged pi-extended tetrathiafulvalene
+      (TTF)-type donors and push-pull analogues.
+PG  - 1201-9
+AB  - A new family of pi-extended TTF analogues (3a-c) and D-pi-A chromophores (5a-c), 
+      in which the electroactive units (1,3-dithiole rings and 2,2-dicyanovinyl groups)
+      are connected through a pyridine bridge with a meta substitution pattern, is
+      reported. The redox behavior of these compounds has been investigated by cyclic
+      voltammetry and theoretical calculations performed at the B3P86/6-31G** level.
+      Unlike many pi-extended TTF derivatives, the 1,3-dithiole rings in compounds 3a-c
+      do not behave independently and two oxidation processes are observed with an
+      anodic separation ranging from 50 to 150 mV. Calculations show that electrons are
+      equally extracted from both dithiole rings. A biradical structure is predicted
+      for the dication state due to the near-degeneracy of the HOMO and HOMO - 1
+      orbitals. The presence of both donor (D) and acceptor (A) fragments in conjugates
+      results in irreversible oxidation and reduction processes associated with the
+      1,3-dithiole ring and with the 2,2-dicyanovinyl moiety, respectively. An
+      electrochemical-chemical-electrochemical (ECE) process takes place for all the
+      compounds reported. The chemical process implies the dimerization of the radical 
+      cation for compounds 5 and the oligomerization of the biradical dication for
+      compounds 3. The ECE process therefore generates new neutral dimeric (5) or
+      oligomeric (3) species that incorporate the TTF vinylogue core.
+FAU - Priego, Eva M
+AU  - Priego EM
+AD  - Departamento de Quimica Organica, Facultad de Quimica, Universidad Complutense,
+      28040, Madrid, Spain.
+FAU - Sanchez, Luis
+AU  - Sanchez L
+FAU - Angeles Herranz, M
+AU  - Angeles Herranz M
+FAU - Martin, Nazario
+AU  - Martin N
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+LA  - eng
+PT  - Journal Article
+DEP - 20070320
+PL  - England
+TA  - Org Biomol Chem
+JT  - Organic & biomolecular chemistry
+JID - 101154995
+EDAT- 2007/04/05 09:00
+MHDA- 2007/04/05 09:01
+CRDT- 2007/04/05 09:00
+PHST- 2007/04/05 09:00 [pubmed]
+PHST- 2007/04/05 09:01 [medline]
+PHST- 2007/04/05 09:00 [entrez]
+AID - 10.1039/b701806a [doi]
+PST - ppublish
+SO  - Org Biomol Chem. 2007 Apr 21;5(8):1201-9. doi: 10.1039/b701806a. Epub 2007 Mar
+      20.
+
+PMID- 17105271
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070905
+LR  - 20080117
+IS  - 0002-7863 (Print)
+IS  - 0002-7863 (Linking)
+VI  - 128
+IP  - 46
+DP  - 2006 Nov 22
+TI  - Stable single-layer light-emitting electrochemical cell using
+      4,7-diphenyl-1,10-phenanthroline-bis(2-phenylpyridine)iridium(III)
+      hexafluorophosphate.
+PG  - 14786-7
+AB  - A significant improvement in the stability of a light emitting electrochemical
+      cell was achieved by utilizing a novel iridium(III) complex:
+      4,7-diphenyl-1,10-phenanthroline-bis(2-phenylpyridine)iridium(III)
+      hexafluorophosphate. The enhanced device stability is correlated by means of DFT 
+      studies to be related to a more efficient shielding of the reactive LUMO of the
+      complex.
+FAU - Bolink, Henk J
+AU  - Bolink HJ
+AD  - Instituto de Ciencia Molecular, Universidad de Valencia, P.O. Box 22085, ES-46071
+      Valencia, Spain. henk.bolink@uv.es
+FAU - Cappelli, Luca
+AU  - Cappelli L
+FAU - Coronado, Eugenio
+AU  - Coronado E
+FAU - Gratzel, Michael
+AU  - Gratzel M
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Costa, Ruben D
+AU  - Costa RD
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Nazeeruddin, Md K
+AU  - Nazeeruddin MK
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Chem Soc
+JT  - Journal of the American Chemical Society
+JID - 7503056
+EDAT- 2006/11/16 09:00
+MHDA- 2006/11/16 09:01
+CRDT- 2006/11/16 09:00
+PHST- 2006/11/16 09:00 [pubmed]
+PHST- 2006/11/16 09:01 [medline]
+PHST- 2006/11/16 09:00 [entrez]
+AID - 10.1021/ja066416f [doi]
+PST - ppublish
+SO  - J Am Chem Soc. 2006 Nov 22;128(46):14786-7. doi: 10.1021/ja066416f.
+
+PMID- 16933346
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070529
+LR  - 20090804
+IS  - 0947-6539 (Print)
+IS  - 0947-6539 (Linking)
+VI  - 12
+IP  - 27
+DP  - 2006 Sep 18
+TI  - Predicting the activity of single isolated Lewis acid sites in solid catalysts.
+PG  - 7067-77
+AB  - An experimental study of the activity of Ti-, Zr- and Sn-beta catalysts in
+      different types of oxidation reactions is combined with a quantum-chemical
+      analysis of the electronic properties of the active sites and the adsorbed
+      reactants. The differences observed in the catalytic behaviour of the three
+      materials are explained in terms of the molecular orbital distribution of each
+      system. The intrinsic Lewis acid strength of the isolated active site, the degree
+      of back-donation from the catalyst to the empty orbitals of the organic reactant 
+      and the net atomic charges on selected atoms are proposed as predictors of
+      reactivity.
+FAU - Boronat, Mercedes
+AU  - Boronat M
+AD  - Instituto de Tecnologia Quimica, UPV-CSIC Universidad Politecnica de Valencia,
+      Av. de los Naranjos, 46022 Valencia, Spain.
+FAU - Corma, Avelino
+AU  - Corma A
+FAU - Renz, Michael
+AU  - Renz M
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2006/08/26 09:00
+MHDA- 2006/08/26 09:01
+CRDT- 2006/08/26 09:00
+PHST- 2006/08/26 09:00 [pubmed]
+PHST- 2006/08/26 09:01 [medline]
+PHST- 2006/08/26 09:00 [entrez]
+AID - 10.1002/chem.200600478 [doi]
+PST - ppublish
+SO  - Chemistry. 2006 Sep 18;12(27):7067-77. doi: 10.1002/chem.200600478.
+
+PMID- 16834274
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070628
+LR  - 20060712
+IS  - 1089-5639 (Print)
+IS  - 1089-5639 (Linking)
+VI  - 109
+IP  - 39
+DP  - 2005 Oct 6
+TI  - Raman and theoretical study of the solvent effects on the sizable intramolecular 
+      charge transfer in the push-pull 5-(dimethylamino)-5'-nitro-2,2'-bithiophene.
+PG  - 8724-31
+AB  - In this paper, we analyze the degree of intramolecular charge transfer in a
+      push-pull pi-conjugated system, 5-(dimethylamino)-5'-nitro-2,2'-bithiophene, from
+      changes in frequencies and relative intensities of its strongest Raman
+      scatterings in a bunch of solvents with different polarities. Density functional 
+      theory (DFT) was used as a support of the experimental study. Solvent effects on 
+      the molecular and electronic structures and on the vibrational properties were
+      estimated by performing B3LYP/6-31G calculations within the framework of the
+      polarized continuum model (PCM) developed by Tomasi. Calculations reveal that the
+      molecule is highly polarized in the ground state and behaves as a very efficient 
+      photoinduced push-pull system. The polarization of the molecule strongly
+      increases with solvent polarity and determines that the profile of the Raman
+      spectra greatly changes from one solvent to another and in going to the solid.
+      The strongest Raman scattering associated with the nu(sym)(NO(2)) stretching
+      undergoes a downshift of 48 cm(-1) in passing from CCl(4) to the solid. DFT
+      calculations provide a comprehensive interpretation of the evolution of the Raman
+      spectra with solvent polarity.
+FAU - Orti, Enrique
+AU  - Orti E
+AD  - Institut de Ciencia Molecular, Universitat de Valencia, E-46100 Burjassot
+      (Valencia), Spain.
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Effenberger, Franz
+AU  - Effenberger F
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Phys Chem A
+JT  - The journal of physical chemistry. A
+JID - 9890903
+EDAT- 2006/07/13 09:00
+MHDA- 2006/07/13 09:01
+CRDT- 2006/07/13 09:00
+PHST- 2006/07/13 09:00 [pubmed]
+PHST- 2006/07/13 09:01 [medline]
+PHST- 2006/07/13 09:00 [entrez]
+AID - 10.1021/jp052137n [doi]
+PST - ppublish
+SO  - J Phys Chem A. 2005 Oct 6;109(39):8724-31. doi: 10.1021/jp052137n.
+
+PMID- 16833429
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070717
+LR  - 20060712
+IS  - 1089-5639 (Print)
+IS  - 1089-5639 (Linking)
+VI  - 109
+IP  - 6
+DP  - 2005 Feb 17
+TI  - A study by spectroelectrochemical FTIR and density functional theory calculations
+      of the reversible complexing ability of an electroactive tetrathiafulvalene
+      crown.
+PG  - 1188-95
+AB  - We report on the study of the electrochemically targeted complexation/expulsion
+      of a metal cation (Ba2+) by a crown ether tetra(thiomethyl)tetrathiafulvalene
+      derivative (crown-TTM-TTF). Real time, in situ FTIR spectroelectrochemistry was
+      used to obtain spectroscopic evidence of this electrochemically triggered
+      phenomenon. Density functional theory calculations allowed the spectral
+      information collected to be assigned. Both experimental and theoretical results
+      clearly show that neutral crown-TTM-TTF complexes well Ba2+. Complexation is
+      evidenced by a significant downshift of the frequency corresponding to the
+      asymmetric stretching of the C-O-C ether groups. Concerning the cation
+      crown-TTM-TTF, the spectroscopic signal of the complex form was difficult to
+      identify, first because of the rather low value of the complexation constant and 
+      second because the vibration modes involving the oxygen atoms (which are the most
+      affected by the complexation) were found by calculation to occur in the lower
+      spectral region (<1000 cm(-1)), which is not accessible in our experimental
+      conditions. In the case of the dication crown-TTM-TTF, it is now clear that the
+      complex form does not exist, which means that the electrochemical formation of
+      the dication necessarily involves the expulsion of the barium ion.
+FAU - Wartelle, C
+AU  - Wartelle C
+AD  - LASIR-HEI, UMR CNRS 8516, 13 rue de Toul, F-59046 Lille Cedex, France.
+FAU - Viruela, P M
+AU  - Viruela PM
+FAU - Viruela, R
+AU  - Viruela R
+FAU - Orti, E
+AU  - Orti E
+FAU - Sauvage, F X
+AU  - Sauvage FX
+FAU - Levillain, E
+AU  - Levillain E
+FAU - Le Derf, F
+AU  - Le Derf F
+FAU - Salle, M
+AU  - Salle M
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Phys Chem A
+JT  - The journal of physical chemistry. A
+JID - 9890903
+EDAT- 2006/07/13 09:00
+MHDA- 2006/07/13 09:01
+CRDT- 2006/07/13 09:00
+PHST- 2006/07/13 09:00 [pubmed]
+PHST- 2006/07/13 09:01 [medline]
+PHST- 2006/07/13 09:00 [entrez]
+AID - 10.1021/jp045397y [doi]
+PST - ppublish
+SO  - J Phys Chem A. 2005 Feb 17;109(6):1188-95. doi: 10.1021/jp045397y.
+
+PMID- 16453366
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20070524
+LR  - 20090804
+IS  - 0947-6539 (Print)
+IS  - 0947-6539 (Linking)
+VI  - 12
+IP  - 12
+DP  - 2006 Apr 12
+TI  - The interplay of inverted redox potentials and aromaticity in the oxidized states
+      of new pi-electron donors: 9-(1,3-dithiol-2-ylidene)fluorene and
+      9-(1,3-dithiol-2-ylidene)thioxanthene derivatives.
+PG  - 3389-400
+AB  - Derivatives of 9-(1,3-dithiol-2-ylidene)fluorene (9) and
+      9-(1,3-dithiol-2-ylidene)thioxanthene (10) have been synthesised using
+      Horner-Wadsworth-Emmons reactions of (1,3-dithiol-2-yl)phosphonate reagents with 
+      fluorenone and thioxanthen-9-one. X-ray crystallography, solution
+      electrochemistry, optical spectroscopy, spectroelectrochemistry and simultaneous 
+      electrochemistry and electron paramagnetic resonance (SEEPR), combined with
+      theoretical calculations performed at the B3P86/6-31G** level, elucidate the
+      interplay of the electronic and structural properties in these molecules. These
+      compounds are strong two-electron donors, and the oxidation potentials depend on 
+      the electronic structure of the oxidised state. Two, single-electron oxidations
+      (E(1)ox < E(1)ox) were observed for 9-(1,3-dithiol-2-ylidene)fluorene systems
+      (9). In contrast, derivatives of 9-(1,3-dithiol-2-ylidene)thioxanthene (10)
+      display the unusual phenomenon of inverted potentials (E(1)ox > E(1)ox) resulting
+      in a single, two-electron oxidation process. The latter is due to the aromatic
+      structure of the thioxanthenium cation (formed on the loss of a second electron),
+      which stabilises the dication state (10(2+)) compared with the radical cation.
+      This contrasts with the nonaromatic structure of the fluorenium cation of system 
+      9. The two-electron oxidation wave in the thioxanthene derivatives is split into 
+      two separate one-electron waves in the corresponding sulfoxide and sulfone
+      derivatives 27-29 owing to destabilisation of the dication state.
+FAU - Amriou, Samia
+AU  - Amriou S
+AD  - Department of Chemistry, University of Durham, Durham DH1 3LE, UK.
+FAU - Wang, Changsheng
+AU  - Wang C
+FAU - Batsanov, Andrei S
+AU  - Batsanov AS
+FAU - Bryce, Martin R
+AU  - Bryce MR
+FAU - Perepichka, Dmitrii F
+AU  - Perepichka DF
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Vidal-Gancedo, Jose
+AU  - Vidal-Gancedo J
+FAU - Rovira, Concepcio
+AU  - Rovira C
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2006/02/03 09:00
+MHDA- 2006/02/03 09:01
+CRDT- 2006/02/03 09:00
+PHST- 2006/02/03 09:00 [pubmed]
+PHST- 2006/02/03 09:01 [medline]
+PHST- 2006/02/03 09:00 [entrez]
+AID - 10.1002/chem.200501326 [doi]
+PST - ppublish
+SO  - Chemistry. 2006 Apr 12;12(12):3389-400. doi: 10.1002/chem.200501326.
+
+PMID- 16429472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060525
+LR  - 20161124
+IS  - 0947-6539 (Print)
+IS  - 0947-6539 (Linking)
+VI  - 12
+IP  - 10
+DP  - 2006 Mar 20
+TI  - Electronic interactions in a new pi-extended tetrathiafulvalene dimer.
+PG  - 2709-21
+AB  - The first pi-extended tetrathiafulvalene (exTTF) dimer in which the two exTTF
+      units are covalently connected by 1,3-dithiole rings has been obtained in a
+      multistep synthetic procedure involving the Ullmann cross-coupling reaction by
+      using copper(I) thiophene-2-carboxylate (CuTC). The electronic spectrum reveals a
+      significant electronic interaction between the exTTF units. The electrochemical
+      study carried out by cyclic voltammetry in solution and in thin-layer conditions,
+      and the electrochemical simulation and spectroelectrochemical (SEC) measurements 
+      confirm the electronic communication and show that the oxidation of dimer 14
+      occurs as two consecutive 2 e(-) processes D(0)-D(0)-->D(2+)-D(0)-->D(2+)-D(2+). 
+      Theoretical calculations, performed at the B3P86/6-31G* level, confirm the
+      experimental findings and predict that 14(2+) exists as a delocalized D(.+)-D(.+)
+      species in the gas phase and as a localized D(2+)-D(0) species in solution
+      (CH(3)CN or CH(2)Cl(2)). Oxidation of 14(2+) forms the tetracation 14(4+) which
+      is constituted by two aromatic anthracene units bearing four aromatic, almost
+      orthogonal 1,3-dithiolium cations.
+FAU - Diaz, Marta C
+AU  - Diaz MC
+AD  - Departamento de Quimica Organica, Facultad de Ciencias Quimicas, Universidad
+      Complutense, 28040 Madrid, Spain.
+FAU - Illescas, Beatriz M
+AU  - Illescas BM
+FAU - Martin, Nazario
+AU  - Martin N
+FAU - Perepichka, Igor F
+AU  - Perepichka IF
+FAU - Bryce, Martin R
+AU  - Bryce MR
+FAU - Levillain, Eric
+AU  - Levillain E
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Orti, Enrique
+AU  - Orti E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+RN  - 0 (Anthracenes)
+RN  - 0 (Heterocyclic Compounds)
+RN  - EH46A1TLD7 (anthracene)
+RN  - HY1EN16W9T (tetrathiafulvalene)
+SB  - IM
+MH  - Anthracenes/chemistry
+MH  - Dimerization
+MH  - *Electrochemistry
+MH  - Electronics
+MH  - Heterocyclic Compounds/*chemistry
+MH  - Models, Chemical
+MH  - Oxidation-Reduction
+MH  - Stereoisomerism
+EDAT- 2006/01/24 09:00
+MHDA- 2006/05/26 09:00
+CRDT- 2006/01/24 09:00
+PHST- 2006/01/24 09:00 [pubmed]
+PHST- 2006/05/26 09:00 [medline]
+PHST- 2006/01/24 09:00 [entrez]
+AID - 10.1002/chem.200501001 [doi]
+PST - ppublish
+SO  - Chemistry. 2006 Mar 20;12(10):2709-21. doi: 10.1002/chem.200501001.
+
+PMID- 16331912
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20060208
+LR  - 20070327
+IS  - 1089-5639 (Print)
+IS  - 1089-5639 (Linking)
+VI  - 109
+IP  - 49
+DP  - 2005 Dec 15
+TI  - Mesitylthio-oligothiophenes in various redox states. Molecular and electronic
+      views as offered by spectroscopy and theory.
+PG  - 11275-84
+AB  - A series of alpha,omega-bis(mesitylthio)oligothiophenes of various chain lengths 
+      and with different side substitution patterns have been studied in their oxidized
+      states by means of electron absorption and Raman spectroscopies in combination
+      with theory in the framework of the density functional theory. Upon chemical
+      oxidation, stable radical cations, dications, and even radical trications are
+      generated. Longer chain lengths better stabilize higher oxidation states. The
+      tetramer can be easily converted to the dication, and a trication can be obtained
+      for the ethylenedioxy derivative. The alpha,omega-sulfur atoms are actively
+      involved in the formation of the charged species and exert a favorable tuning of 
+      their electronic structure. Raman spectra provide experimental evidence of the
+      attainment of quinoidal structures within the conjugated path, initially
+      heteroaromatic, with different extension as a function of the p-doping level.
+FAU - Casado, Juan
+AU  - Casado J
+AD  - Department of Physical Chemistry, University of Malaga, Campus de Teatinos s/n,
+      Malaga 29071, Spain.
+FAU - Zgierski, Marek Z
+AU  - Zgierski MZ
+FAU - Hicks, Robin G
+AU  - Hicks RG
+FAU - Myles, Daniel J T
+AU  - Myles DJ
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Ruiz Delgado, M Carmen
+AU  - Ruiz Delgado MC
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Phys Chem A
+JT  - The journal of physical chemistry. A
+JID - 9890903
+EDAT- 2005/12/08 09:00
+MHDA- 2005/12/08 09:01
+CRDT- 2005/12/08 09:00
+PHST- 2005/12/08 09:00 [pubmed]
+PHST- 2005/12/08 09:01 [medline]
+PHST- 2005/12/08 09:00 [entrez]
+AID - 10.1021/jp052778i [doi]
+PST - ppublish
+SO  - J Phys Chem A. 2005 Dec 15;109(49):11275-84. doi: 10.1021/jp052778i.
+
+PMID- 16163761
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20061211
+LR  - 20090804
+IS  - 0947-6539 (Print)
+IS  - 0947-6539 (Linking)
+VI  - 11
+IP  - 23
+DP  - 2005 Nov 18
+TI  - A multisite molecular mechanism for Baeyer-Villiger oxidations on solid catalysts
+      using environmentally friendly H2O2 as oxidant.
+PG  - 6905-15
+AB  - The molecular mechanism of the Baeyer-Villiger oxidation of cyclohexanone with
+      hydrogen peroxide catalyzed by the Sn-beta zeolite has been investigated by
+      combining molecular mechanics, quantum-chemical calculations, spectroscopic, and 
+      kinetic techniques. A theoretical study of the location of Sn in zeolite beta was
+      performed by using atomistic force-field techniques to simulate the local
+      environment of the active site. An interatomic potential for Sn/Si zeolites,
+      which allows the simulation of zeolites containing Sn in a tetrahedral
+      environment, has been developed by fitting it to the experimental properties of
+      quartz and SnO2(rutile). The tin active site has been modeled by means of a
+      Sn(OSiH3)3OH cluster, which includes a defect in the framework that provides the 
+      flexibility necessary for the interaction between the adsorbates and the Lewis
+      acid center. Two possible reaction pathways have been considered in the
+      computational study, one of them involving the activation of the cyclohexanone
+      carbonyl group by Sn (1) and the other one involving hydrogen peroxide being
+      activated through the formation of a tin-hydroperoxo intermediate (2). Both the
+      quantum-chemical results and the kinetic study indicate that the reaction follows
+      mechanism 1, and that the catalyst active site consists of two centers: the Lewis
+      acid Sn atom to which cyclohexanone has to coordinate, and the oxygen atom of the
+      Sn-OH group that interacts with H2O2 forming a hydrogen bond.
+FAU - Boronat, Mercedes
+AU  - Boronat M
+AD  - Instituto de Tecnologia Quimica, UPV-CSIC, Universidad Politecnica de Valencia,
+      Av. de los Naranjos s/n, 46022 Valencia, Spain.
+FAU - Corma, Avelino
+AU  - Corma A
+FAU - Renz, Michael
+AU  - Renz M
+FAU - Sastre, German
+AU  - Sastre G
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2005/09/16 09:00
+MHDA- 2005/09/16 09:01
+CRDT- 2005/09/16 09:00
+PHST- 2005/09/16 09:00 [pubmed]
+PHST- 2005/09/16 09:01 [medline]
+PHST- 2005/09/16 09:00 [entrez]
+AID - 10.1002/chem.200500184 [doi]
+PST - ppublish
+SO  - Chemistry. 2005 Nov 18;11(23):6905-15. doi: 10.1002/chem.200500184.
+
+PMID- 15139227
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040726
+LR  - 20061115
+IS  - 1439-4235 (Print)
+IS  - 1439-4235 (Linking)
+VI  - 5
+IP  - 4
+DP  - 2004 Apr 19
+TI  - Spectroscopic and theoretical study of the molecular and electronic structures of
+      a terthiophene-based quinodimethane.
+PG  - 529-39
+AB  - The UV/Vis, infrared absorption, and Raman scattering spectra of
+      3',4'-dibutyl-5,5"-bis(dicyanomethylene)-5,5"-dihydro-2,2':5',2"-terthiophene
+      have been analyzed with the aid of density functional theory calculations. The
+      compound exhibits a quinoid structure in its ground electronic state and presents
+      an intramolecular charge transfer from the terthiophene moiety to the C(CN)2
+      groups. The molecular system therefore consists of an electron-deficient
+      terthiophene backbone end-capped with electron-rich C(CN)2 groups. The molecule
+      is characterized by a strong absorption in the red, due to the HOMO-->LUMO pi-pi*
+      electronic transition of the terthiophene backbone that shifts hypsochromically
+      on passing from the solid state to solution and with the polarity of the solvent.
+      The analysis of the vibrational spectra confirms the structural conclusions and
+      supports the existence of an intramolecular charge transfer. Vibrational spectra 
+      in several solvents and as a function of temperature have also been studied.
+      Significant frequency upshifts of the vibrations involved in the
+      pi-electron-conjugated pathway have been noticed upon solution in polar solvents 
+      and with the lowering of the temperature. Finally, we propose a quinoid molecule 
+      as a reliable structural and electronic model for dication species in doped
+      oligothiophenes or for bipolaron charged defects in doped polythiophene.
+FAU - Casado, Juan
+AU  - Casado J
+AD  - Departamento de Quimica Fisica, Universidad de Malaga 29071 Malaga, Spain.
+FAU - Pappenfus, Ted M
+AU  - Pappenfus TM
+FAU - Mann, Kent R
+AU  - Mann KR
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Milian, Begona
+AU  - Milian B
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - Germany
+TA  - Chemphyschem
+JT  - Chemphyschem : a European journal of chemical physics and physical chemistry
+JID - 100954211
+RN  - 0 (Quinoxalines)
+RN  - 0 (Thiophenes)
+SB  - IM
+MH  - Crystallography, X-Ray/methods
+MH  - Electronics
+MH  - Models, Molecular
+MH  - Quinoxalines/*chemistry
+MH  - Spectrophotometry
+MH  - Thiophenes/*chemistry
+EDAT- 2004/05/14 05:00
+MHDA- 2004/07/28 05:00
+CRDT- 2004/05/14 05:00
+PHST- 2004/05/14 05:00 [pubmed]
+PHST- 2004/07/28 05:00 [medline]
+PHST- 2004/05/14 05:00 [entrez]
+AID - 10.1002/cphc.200300963 [doi]
+PST - ppublish
+SO  - Chemphyschem. 2004 Apr 19;5(4):529-39. doi: 10.1002/cphc.200300963.
+
+PMID- 15079847
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20040914
+LR  - 20090804
+IS  - 0947-6539 (Print)
+IS  - 0947-6539 (Linking)
+VI  - 10
+IP  - 8
+DP  - 2004 Apr 19
+TI  - Highly conjugated p-quinonoid pi-extended tetrathiafulvalene derivatives: a class
+      of highly distorted electron donors.
+PG  - 2067-77
+AB  - A new class of pi-extended TTF-type electron donors (11 a-c) has been synthesized
+      by Wittig-Horner olefination of bianthrone (9) with 1,3-dithiole phosphonate
+      esters (10 a-c). In cyclic voltammetry experiments, donors 11 a-c reveal a
+      single, electrochemically irreversible oxidation-yielding the corresponding
+      dicationic products-at relatively low oxidation potentials (approximately 0.7-0.8
+      V). Theoretical calculations, performed at the DFT level (B3 P86/6-31 G*),
+      predict a highly-folded C(2h) structure for 11 a. In the ground state, the
+      molecule adopts a double saddle-like conformation to compensate the steric
+      hindrance. The calculations suggest that the intramolecular charge transfer
+      associated with the HOMO-->LUMO transition is responsible for an absorption band 
+      observed above 400 nm. While the radical cation 11 a*+ retains the folded C(2h)
+      structure predicted for the neutral molecule as the most stable conformation, the
+      dication 11 a(2+) has a fully aromatic D(2) structure, formed by an orthogonal
+      9,9'-bianthryl central unit to which two singly-charged dithiole rings are
+      attached. The drastic conformational changes that compounds 11 undergo upon
+      oxidation account for their electrochemical properties. By means of pulse
+      radiolysis measurements, radical-induced one-electron oxidation of 11 a-c was
+      shown to lead to the radical cation species (11 a-c*+), which were found to
+      disproportionate with generation of the respective dication species (11 a-c(2+)) 
+      and the neutral molecules (11 a-c).
+FAU - Diaz, Marta C
+AU  - Diaz MC
+AD  - Departamento Quimica Organica, Facultad de Ciencias Quimicas, Universidad
+      Complutense, 28040 Madrid, Spain.
+FAU - Illescas, Beatriz M
+AU  - Illescas BM
+FAU - Martin, Nazario
+AU  - Martin N
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Brede, Ortwin
+AU  - Brede O
+FAU - Zilbermann, Israel
+AU  - Zilbermann I
+FAU - Guldi, Dirk M
+AU  - Guldi DM
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2004/04/14 05:00
+MHDA- 2004/04/14 05:01
+CRDT- 2004/04/14 05:00
+PHST- 2004/04/14 05:00 [pubmed]
+PHST- 2004/04/14 05:01 [medline]
+PHST- 2004/04/14 05:00 [entrez]
+AID - 10.1002/chem.200305555 [doi]
+PST - ppublish
+SO  - Chemistry. 2004 Apr 19;10(8):2067-77. doi: 10.1002/chem.200305555.
+
+PMID- 15012161
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20040525
+LR  - 20040311
+IS  - 0002-7863 (Print)
+IS  - 0002-7863 (Linking)
+VI  - 126
+IP  - 10
+DP  - 2004 Mar 17
+TI  - Reaction intermediates in acid catalysis by zeolites: prediction of the relative 
+      tendency to form alkoxides or carbocations as a function of hydrocarbon nature
+      and active site structure.
+PG  - 3300-9
+AB  - The mechanism of protonation of ethene, propene, and isobutylene adsorbed on
+      seven different Bronsted acid sites of mordenite has been studied at the ONIOM
+      (B3PW91/6-31G(d,p):MNDO) theoretical level to assess the influence of olefin size
+      and local geometry of the active site on the species and energies involved. The
+      activation energies for olefin protonation are determined by short- and
+      medium-range electrostatic effects and reflect the order of stability of primary,
+      secondary, and tertiary carbenium ions. On the other hand, the stability of
+      covalent alkoxides depends linearly on the AlO(b)Si angle value in the complex,
+      which in turn is determined by the corresponding value in the deprotonated
+      zeolite. It is also shown that the mechanism of protonation of isobutylene is
+      different from that of ethene and propene and involves a free tert-butyl
+      carbenium ion as a true reaction intermediate. Whether this carbenium ion is
+      converted into a covalent alkoxide depends on the T position on which the Al is
+      located. All these findings allow us to predict, on the basis of the position and
+      local geometry of the Bronsted acid site, whether the reaction intermediates of
+      olefin protonation will be covalent alkoxides or free carbenium ions.
+FAU - Boronat, M
+AU  - Boronat M
+AD  - Instituto de Tecnologia Quimica, UPV-CSIC, Universidad Politecnica de Valencia,
+      Av/dels Tarongers, s/n, 46022 Valencia, Spain.
+FAU - Viruela, P M
+AU  - Viruela PM
+FAU - Corma, A
+AU  - Corma A
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Chem Soc
+JT  - Journal of the American Chemical Society
+JID - 7503056
+EDAT- 2004/03/12 05:00
+MHDA- 2004/03/12 05:01
+CRDT- 2004/03/12 05:00
+PHST- 2004/03/12 05:00 [pubmed]
+PHST- 2004/03/12 05:01 [medline]
+PHST- 2004/03/12 05:00 [entrez]
+AID - 10.1021/ja039432a [doi]
+PST - ppublish
+SO  - J Am Chem Soc. 2004 Mar 17;126(10):3300-9. doi: 10.1021/ja039432a.
+
+PMID- 12603140
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20030506
+LR  - 20031104
+IS  - 0002-7863 (Print)
+IS  - 0002-7863 (Linking)
+VI  - 125
+IP  - 9
+DP  - 2003 Mar 5
+TI  - Nitro-functionalized oligothiophenes as a novel type of electroactive molecular
+      material: spectroscopic, electrochemical, and computational study.
+PG  - 2524-34
+AB  - A novel series of terthiophenes bearing electron-donor and electron-acceptor
+      groups at the end alpha-positions has been prepared. The analysis of the UV-vis, 
+      infrared, and Raman spectra, performed with the aid of density functional theory 
+      calculations, shows that the asymmetrically substituted nitro compounds
+      PhT(3)NO(2) and BrT(3)NO(2) behave as push-pull systems and present an intense
+      photoinduced charge transfer in the visible spectrum. The symmetrically
+      substituted dinitro compound NO(2)T(3)NO(2) displays a highly delocalized
+      structure with a low single-double bond length alternation and also displays a
+      low-energy absorption band in the visible region. The novel nitroterthiophenes
+      possess attractive electrochemical properties since they generate stable species 
+      both upon oxidation and reduction. Oxidation mainly involves changes in the
+      oligothiophene backbone and leads to the formation of stable cations even for
+      NO(2)T(3)NO(2). Reduction is mainly nitro-centered but also affects the
+      conjugated structure. Radical anions and dianions are formed for PhT(3)NO(2) and 
+      BrT(3)NO(2). Dianions, not radical anions, and trianions are obtained for
+      NO(2)T(3)NO(2). Nitro-functionalized terthiophenes are shown to be very promising
+      as electroactive molecular materials since they behave as push-pull systems,
+      present a very intense photoinduced charge transfer in the visible region, and
+      could act as both n- and p-channel conductors in organic electronic transistors.
+FAU - Casado, Juan
+AU  - Casado J
+AD  - Departamento de Quimica Fisica, Facultad de Ciencias, Universidad de Malaga,
+      29071-Malaga, Spain. teodomiro@uma.es
+FAU - Pappenfus, Ted M
+AU  - Pappenfus TM
+FAU - Miller, Larry L
+AU  - Miller LL
+FAU - Mann, Kent R
+AU  - Mann KR
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Viruela, Pedro M
+AU  - Viruela PM
+FAU - Pou-Amerigo, Rosendo
+AU  - Pou-Amerigo R
+FAU - Hernandez, Victor
+AU  - Hernandez V
+FAU - Lopez Navarrete, Juan T
+AU  - Lopez Navarrete JT
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Chem Soc
+JT  - Journal of the American Chemical Society
+JID - 7503056
+EDAT- 2003/02/27 04:00
+MHDA- 2003/02/27 04:01
+CRDT- 2003/02/27 04:00
+PHST- 2003/02/27 04:00 [pubmed]
+PHST- 2003/02/27 04:01 [medline]
+PHST- 2003/02/27 04:00 [entrez]
+AID - 10.1021/ja027835p [doi]
+PST - ppublish
+SO  - J Am Chem Soc. 2003 Mar 5;125(9):2524-34. doi: 10.1021/ja027835p.
+
+PMID- 12071723
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20020819
+LR  - 20190708
+IS  - 0002-7863 (Print)
+IS  - 0002-7863 (Linking)
+VI  - 124
+IP  - 25
+DP  - 2002 Jun 26
+TI  - Observation of azo chromophore fluorescence and phosphorescence emissions from
+      DBH by applying exclusively the orbital confinement effect in siliceous zeolites 
+      devoid of charge-balancing cations.
+PG  - 7264-5
+AB  - The molecular orbital (MO) confinement theory predicts that the HOMO and LUMO of 
+      an organic guest may become distorted when the dimensions of the host cavity
+      approach closely those of the MO (Corma, A.; Garcia, H.; Sastre, G.; Viruela, P. 
+      M. J. Phys. Chem. B 1997, 101, 4575-4582). Generally, quantum chemical
+      calculations assume that the MO extends over all the space. However, the fact
+      that a molecule is confined within a restricted cavity might impose certain
+      limits to its MO. In agreement with this theory, we have observed for the first
+      time the phosphorescence emission from 2,3-diazabicyclo[2.2.1]hept-2-ene (DBH)
+      upon incorporation in zeolites devoid of charge-balancing cations, even at room
+      temperature. This observation may be rationalized on the basis of two possible
+      effects: (i) Decrease of the HOMO-LUMO gap induced by confinement of the azo np* 
+      chromophore favors ISC, and (ii) inhibition of radiationless deactivation pathway
+      by the immobilization of DBH within the zeolite host favors long lifetimes.
+FAU - Marquez, Francisco
+AU  - Marquez F
+AD  - Universidad Politecnica de Valencia, ITQ-C.S.I.C, Av. de los Naranjos s/n,
+      46022-Valencia, Spain. fmarquez@itq.upv.es
+FAU - Marti, Vicente
+AU  - Marti V
+FAU - Palomares, Emilio
+AU  - Palomares E
+FAU - Garcia, Hermenegildo
+AU  - Garcia H
+FAU - Adam, Waldemar
+AU  - Adam W
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Chem Soc
+JT  - Journal of the American Chemical Society
+JID - 7503056
+EDAT- 2002/06/20 10:00
+MHDA- 2002/06/20 10:01
+CRDT- 2002/06/20 10:00
+PHST- 2002/06/20 10:00 [pubmed]
+PHST- 2002/06/20 10:01 [medline]
+PHST- 2002/06/20 10:00 [entrez]
+AID - ja012242k [pii]
+AID - 10.1021/ja012242k [doi]
+PST - ppublish
+SO  - J Am Chem Soc. 2002 Jun 26;124(25):7264-5. doi: 10.1021/ja012242k.
+
+PMID- 11322557
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20010517
+LR  - 20190921
+IS  - 0947-6539 (Print)
+IS  - 0947-6539 (Linking)
+VI  - 7
+IP  - 6
+DP  - 2001 Mar 16
+TI  - Cluster and periodic calculations of the ethene protonation reaction catalyzed by
+      theta-1 zeolite: influence of method, model size, and structural constraints.
+PG  - 1295-303
+AB  - The protonation of ethene by three different acid sites of theta-1 zeolite was
+      theoretically studied to analyze the extent and relevance of the following
+      aspects of heterogeneous catalysis: the local geometry of the Bronsted acid site 
+      in a particular zeolite, the size of the cluster used to model the catalyst, the 
+      degree of geometry relaxation around the active site, and the effects related to 
+      medium- and long-range interactions between the reaction site and its
+      environment. It has been found that while the reaction energy is very sensitive
+      to the local geometry of the site, the activation energy is mainly affected by
+      the methodology used and by electrostatic effects on account of the carbocationic
+      nature of the transition state.
+FAU - Boronat, M
+AU  - Boronat M
+AD  - Instituto de Tecnologia Quimica UPV-CSIC Universidad Politecnica de Valencia,
+      Spain. acorma@itq.upv.es
+FAU - Zicovich-Wilson, C M
+AU  - Zicovich-Wilson CM
+FAU - Viruela, P
+AU  - Viruela P
+FAU - Corma, A
+AU  - Corma A
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2001/04/27 10:00
+MHDA- 2001/04/27 10:01
+CRDT- 2001/04/27 10:00
+PHST- 2001/04/27 10:00 [pubmed]
+PHST- 2001/04/27 10:01 [medline]
+PHST- 2001/04/27 10:00 [entrez]
+AID - 10.1002/1521-3765(20010316)7:6<1295::AID-CHEM1295>3.0.CO;2-S [pii]
+AID - 10.1002/1521-3765(20010316)7:6<1295::aid-chem1295>3.0.co;2-s [doi]
+PST - ppublish
+SO  - Chemistry. 2001 Mar 16;7(6):1295-303. doi:
+      10.1002/1521-3765(20010316)7:6<1295::aid-chem1295>3.0.co;2-s.
+
+PMID- 10785806
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 6
+IP  - 7
+DP  - 2000 Apr 3
+TI  - pi conjugation across the tetrathiafulvalene core: synthesis of extended
+      tetrathiafulvalene derivatives and theoretical analysis of their unusual
+      electrochemical properties
+PG  - 1199-213
+AB  - A series of extended tetrathiafulvalene (TTF) derivatives bearing one or two
+      1,4-dithiafulven-6-yl substitutents has been prepared. The new compounds present 
+      remarkable electrochemical singularities compared with other TTF derivatives,
+      which are strongly affected by the nature of the substitution on the lateral
+      heterocycle(s). This unusual electrochemical behaviour follows a square-scheme
+      sequence and is attributed to structural changes upon oxidation of the
+      pi-donating molecules. Digital simulations of the electrochemical data have been 
+      used to reach the values of the kinetic and thermodynamic constants involved in
+      the square scheme. Theoretical calculations establish an important contribution
+      of a highly delocalised resonant form involving a tetravalent sulphur in oxidised
+      species, which could justify the occurrence of an electrochemical behaviour
+      distinct from that of TTF. Finally, third-order susceptibilities chi 3 of two of 
+      these systems, for which electron-donating and electron-withdrawing substituents 
+      coexist and are conjugated through the TTF pi system, are given.
+FAU - Terkia-Derdra
+AU  - Terkia-Derdra N
+AD  - Laboratoire d'Ingenierie Moleculaire et Materiaux Organiques, UMR CNRS 6501,
+      Universite d'Angers, France.
+FAU - Andreu
+AU  - Andreu R
+FAU - Salle
+AU  - Salle M
+FAU - Levillain
+AU  - Levillain E
+FAU - Orduna
+AU  - Orduna J
+FAU - Garin
+AU  - Garin J
+FAU - Orti
+AU  - Orti E
+FAU - Viruela
+AU  - Viruela R
+FAU - Pou-Amerigo
+AU  - Pou-Amerigo R
+FAU - Sahraoui
+AU  - Sahraoui B
+FAU - Gorgues
+AU  - Gorgues A
+FAU - Favard
+AU  - Favard JF
+FAU - Riou
+AU  - Riou A
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+EDAT- 2000/04/29 00:00
+MHDA- 2000/04/29 00:01
+CRDT- 2000/04/29 00:00
+PHST- 2000/04/29 00:00 [pubmed]
+PHST- 2000/04/29 00:01 [medline]
+PHST- 2000/04/29 00:00 [entrez]
+AID - 10.1002/(SICI)1521-3765(20000403)6:7<1199::AID-CHEM1199>3.0.CO;2-G [pii]
+AID - 10.1002/(sici)1521-3765(20000403)6:7<1199::aid-chem1199>3.3.co;2-7 [doi]
+PST - ppublish
+SO  - Chemistry. 2000 Apr 3;6(7):1199-213. doi:
+      10.1002/(sici)1521-3765(20000403)6:7<1199::aid-chem1199>3.3.co;2-7.
+
+PMID- 11667166
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1520-6904 (Electronic)
+IS  - 0022-3263 (Linking)
+VI  - 61
+IP  - 9
+DP  - 1996 May 3
+TI  - Synthesis, Characterization, and Theoretical Study of Sulfur-Containing
+      Donor-Acceptor DCNQI Derivatives with Photoinduced Intramolecular Electron
+      Transfer.
+PG  - 3041-3054
+AB  - The donor-acceptor compounds
+      N,N'-dicyanobenzo[b]naphtho[2,3-e][1,4]dithiin-6,11-quinonediimine (9a) and
+      N,N'-dicyanobenzo[b]naphtho[2,3-e][1,4]oxathiin-6,11-quinonediimine (10a) and
+      their methyl-substituted derivatives (9b and 10b-d, respectively) have been
+      prepared, and their structural and electronic properties have been characterized 
+      by both experimental techniques and quantum-chemical calculations. The (1)H-NMR
+      spectra evidence the existence of a syn/anti isomerism in solution. Both
+      experimental and theoretical data suggest that the preferred configuration of the
+      N-CN groups corresponds to a syn isomer for 9 and to an anti isomer for 10. The
+      X-ray analysis performed for 9b reveals that molecules are not planar and pack in
+      vertical stacks showing an overlap between donor and acceptor moieties of
+      adjacent molecules. In agreement with X-ray data, theoretical calculations
+      predict that both for 9 and 10 the acceptor DCNQI moiety is folded and adopts a
+      butterfly-type structure and the donor moiety is bent along the line passing
+      through the heteroatoms. The energy difference between planar and butterfly
+      structures is calculated to be < 3 kcal/mol at the ab initio 6-31G level. The
+      UV-vis spectra present a broad absorption in the visible which corresponds to a
+      photoinduced intramolecular electron transfer from the high-energy HOMO furnished
+      by the donor moiety to the low-energy LUMO located on the DCNQI fragment. Cyclic 
+      voltammetry displays one oxidation peak to the cation and two one-electron
+      reduction waves to the anion and dianion. Theoretical calculations show the
+      planarization of the acceptor/donor moiety induced by reduction/oxidation. The
+      formation of stable radical anions is corroborated by the intense EPR signals
+      recorded for reduced 9. The assignment of the hyperfine coupling constants of the
+      EPR spectra is consistent with the existence of a preferred syn configuration.
+FAU - Martin, Nazario
+AU  - Martin N
+AD  - Institut de Ciencia de Materials de Barcelona (CSIC), Campus U.A.B., E-08193
+      Bellaterra, Spain.
+FAU - Segura, Jose L.
+AU  - Segura JL
+FAU - Seoane, Carlos
+AU  - Seoane C
+FAU - Orti, Enrique
+AU  - Orti E
+FAU - Viruela, Pedro M.
+AU  - Viruela PM
+FAU - Viruela, Rafael
+AU  - Viruela R
+FAU - Albert, Armando
+AU  - Albert A
+FAU - Cano, Felix H.
+AU  - Cano FH
+FAU - Vidal-Gancedo, Jose
+AU  - Vidal-Gancedo J
+FAU - Rovira, Concepcio
+AU  - Rovira C
+FAU - Veciana, Jaume
+AU  - Veciana J
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Org Chem
+JT  - The Journal of organic chemistry
+JID - 2985193R
+EDAT- 1996/05/03 00:00
+MHDA- 2001/10/23 10:00
+CRDT- 1996/05/03 00:00
+PHST- 1996/05/03 00:00 [pubmed]
+PHST- 2001/10/23 10:00 [medline]
+PHST- 1996/05/03 00:00 [entrez]
+AID - jo952274o [pii]
+AID - 10.1021/jo952274o [doi]
+PST - ppublish
+SO  - J Org Chem. 1996 May 3;61(9):3041-3054. doi: 10.1021/jo952274o.
+
+PMID- 19600623
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20090730
+LR  - 20211020
+IS  - 0737-8769 (Print)
+IS  - 0737-8769 (Linking)
+VI  - 20
+DP  - 1894
+TI  - Las Cuarentenas Aplicadas a la Viruela.
+PG  - 546-8
+FAU - De Arellano, N R
+AU  - De Arellano NR
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Public Health Pap Rep
+JT  - Public health papers and reports
+JID - 0024060
+PMC - PMC2266448
+EDAT- 1894/01/01 00:00
+MHDA- 1894/01/01 00:01
+CRDT- 2009/07/15 09:00
+PHST- 2009/07/15 09:00 [entrez]
+PHST- 1894/01/01 00:00 [pubmed]
+PHST- 1894/01/01 00:01 [medline]
+PST - ppublish
+SO  - Public Health Pap Rep. 1894;20:546-8.
