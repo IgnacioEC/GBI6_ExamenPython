@@ -8,7 +8,7 @@ def download_pubmed (VIRUELA):
     """
     Funcion que pide como input la palabra de busqueda en tipo str del pubmed y como output guarda un documento con extensión
     txt que contiene los datos de la busqueda y se hace un llamado de librería data de pubmed importando desde biopython para 
-    el gen HPV18I1 (CANCERHPV) perteneciente al Herpex virus en humanos:
+    el gen HPV18I1 en humanos:
     El code `efetch` Recupera registros en el formato solicitado de una lista
     
     """ 
